@@ -1,0 +1,44 @@
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\DotNetFirstLook.exe
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\DotNetFirstLook.deps.json
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\DotNetFirstLook.runtimeconfig.json
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\DotNetFirstLook.dll
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\DotNetFirstLook.pdb
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\DotNetFirstLook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\DotNetFirstLook.AssemblyInfoInputs.cache
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\DotNetFirstLook.AssemblyInfo.cs
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\DotNetFirstLook.csproj.CoreCompileInputs.cache
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\DotNetFirstLook.dll
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\refint\DotNetFirstLook.dll
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\DotNetFirstLook.pdb
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\DotNetFirstLook.genruntimeconfig.cache
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\ref\DotNetFirstLook.dll
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\DotNetFirstLook.csproj.AssemblyReference.cache
+C:\Users\engmt\source\repos\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\DotNetFi.C2D95F81.Up2Date
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\DotNetFirstLook.exe
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\DotNetFirstLook.deps.json
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\DotNetFirstLook.runtimeconfig.json
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\DotNetFirstLook.dll
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\DotNetFirstLook.pdb
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\DotNetFirstLook.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\DotNetFirstLook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\DotNetFirstLook.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\DotNetFirstLook.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\DotNetFirstLook.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\DotNetFi.C2D95F81.Up2Date
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\DotNetFirstLook.dll
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\refint\DotNetFirstLook.dll
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\DotNetFirstLook.pdb
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\DotNetFirstLook.genruntimeconfig.cache
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D01\LearnItCSD01\DotNetFirstLook\obj\Debug\net8.0\ref\DotNetFirstLook.dll

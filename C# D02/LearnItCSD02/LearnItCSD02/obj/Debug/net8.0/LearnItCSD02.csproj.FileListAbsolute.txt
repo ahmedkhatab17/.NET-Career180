@@ -1,0 +1,28 @@
+C:\Users\engmt\source\repos\LearnItCSD02\LearnItCSD02\bin\Debug\net8.0\LearnItCSD02.exe
+C:\Users\engmt\source\repos\LearnItCSD02\LearnItCSD02\bin\Debug\net8.0\LearnItCSD02.deps.json
+C:\Users\engmt\source\repos\LearnItCSD02\LearnItCSD02\bin\Debug\net8.0\LearnItCSD02.runtimeconfig.json
+C:\Users\engmt\source\repos\LearnItCSD02\LearnItCSD02\bin\Debug\net8.0\LearnItCSD02.dll
+C:\Users\engmt\source\repos\LearnItCSD02\LearnItCSD02\bin\Debug\net8.0\LearnItCSD02.pdb
+C:\Users\engmt\source\repos\LearnItCSD02\LearnItCSD02\obj\Debug\net8.0\LearnItCSD02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engmt\source\repos\LearnItCSD02\LearnItCSD02\obj\Debug\net8.0\LearnItCSD02.AssemblyInfoInputs.cache
+C:\Users\engmt\source\repos\LearnItCSD02\LearnItCSD02\obj\Debug\net8.0\LearnItCSD02.AssemblyInfo.cs
+C:\Users\engmt\source\repos\LearnItCSD02\LearnItCSD02\obj\Debug\net8.0\LearnItCSD02.csproj.CoreCompileInputs.cache
+C:\Users\engmt\source\repos\LearnItCSD02\LearnItCSD02\obj\Debug\net8.0\LearnItCSD02.dll
+C:\Users\engmt\source\repos\LearnItCSD02\LearnItCSD02\obj\Debug\net8.0\refint\LearnItCSD02.dll
+C:\Users\engmt\source\repos\LearnItCSD02\LearnItCSD02\obj\Debug\net8.0\LearnItCSD02.pdb
+C:\Users\engmt\source\repos\LearnItCSD02\LearnItCSD02\obj\Debug\net8.0\LearnItCSD02.genruntimeconfig.cache
+C:\Users\engmt\source\repos\LearnItCSD02\LearnItCSD02\obj\Debug\net8.0\ref\LearnItCSD02.dll
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D02\LearnItCSD02\LearnItCSD02\bin\Debug\net8.0\LearnItCSD02.exe
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D02\LearnItCSD02\LearnItCSD02\bin\Debug\net8.0\LearnItCSD02.deps.json
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D02\LearnItCSD02\LearnItCSD02\bin\Debug\net8.0\LearnItCSD02.runtimeconfig.json
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D02\LearnItCSD02\LearnItCSD02\bin\Debug\net8.0\LearnItCSD02.dll
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D02\LearnItCSD02\LearnItCSD02\bin\Debug\net8.0\LearnItCSD02.pdb
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D02\LearnItCSD02\LearnItCSD02\obj\Debug\net8.0\LearnItCSD02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D02\LearnItCSD02\LearnItCSD02\obj\Debug\net8.0\LearnItCSD02.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D02\LearnItCSD02\LearnItCSD02\obj\Debug\net8.0\LearnItCSD02.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D02\LearnItCSD02\LearnItCSD02\obj\Debug\net8.0\LearnItCSD02.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D02\LearnItCSD02\LearnItCSD02\obj\Debug\net8.0\LearnItCSD02.dll
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D02\LearnItCSD02\LearnItCSD02\obj\Debug\net8.0\refint\LearnItCSD02.dll
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D02\LearnItCSD02\LearnItCSD02\obj\Debug\net8.0\LearnItCSD02.pdb
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D02\LearnItCSD02\LearnItCSD02\obj\Debug\net8.0\LearnItCSD02.genruntimeconfig.cache
+C:\Users\ahmed\OneDrive\Desktop\Career180\C# D02\LearnItCSD02\LearnItCSD02\obj\Debug\net8.0\ref\LearnItCSD02.dll
