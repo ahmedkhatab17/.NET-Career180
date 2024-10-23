@@ -1,0 +1,14 @@
+D:\BootCamp\SecondConsoleApp\SecondConsoleApp\bin\Debug\net8.0\SecondConsoleApp.exe
+D:\BootCamp\SecondConsoleApp\SecondConsoleApp\bin\Debug\net8.0\SecondConsoleApp.deps.json
+D:\BootCamp\SecondConsoleApp\SecondConsoleApp\bin\Debug\net8.0\SecondConsoleApp.runtimeconfig.json
+D:\BootCamp\SecondConsoleApp\SecondConsoleApp\bin\Debug\net8.0\SecondConsoleApp.dll
+D:\BootCamp\SecondConsoleApp\SecondConsoleApp\bin\Debug\net8.0\SecondConsoleApp.pdb
+D:\BootCamp\SecondConsoleApp\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootCamp\SecondConsoleApp\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.AssemblyInfoInputs.cache
+D:\BootCamp\SecondConsoleApp\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.AssemblyInfo.cs
+D:\BootCamp\SecondConsoleApp\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.csproj.CoreCompileInputs.cache
+D:\BootCamp\SecondConsoleApp\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.dll
+D:\BootCamp\SecondConsoleApp\SecondConsoleApp\obj\Debug\net8.0\refint\SecondConsoleApp.dll
+D:\BootCamp\SecondConsoleApp\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.pdb
+D:\BootCamp\SecondConsoleApp\SecondConsoleApp\obj\Debug\net8.0\SecondConsoleApp.genruntimeconfig.cache
+D:\BootCamp\SecondConsoleApp\SecondConsoleApp\obj\Debug\net8.0\ref\SecondConsoleApp.dll

@@ -1,0 +1,14 @@
+C:\Users\engmt\source\repos\LearnItCSD03\LearnItCSD03\bin\Debug\net8.0\LearnItCSD03.exe
+C:\Users\engmt\source\repos\LearnItCSD03\LearnItCSD03\bin\Debug\net8.0\LearnItCSD03.deps.json
+C:\Users\engmt\source\repos\LearnItCSD03\LearnItCSD03\bin\Debug\net8.0\LearnItCSD03.runtimeconfig.json
+C:\Users\engmt\source\repos\LearnItCSD03\LearnItCSD03\bin\Debug\net8.0\LearnItCSD03.dll
+C:\Users\engmt\source\repos\LearnItCSD03\LearnItCSD03\bin\Debug\net8.0\LearnItCSD03.pdb
+C:\Users\engmt\source\repos\LearnItCSD03\LearnItCSD03\obj\Debug\net8.0\LearnItCSD03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engmt\source\repos\LearnItCSD03\LearnItCSD03\obj\Debug\net8.0\LearnItCSD03.AssemblyInfoInputs.cache
+C:\Users\engmt\source\repos\LearnItCSD03\LearnItCSD03\obj\Debug\net8.0\LearnItCSD03.AssemblyInfo.cs
+C:\Users\engmt\source\repos\LearnItCSD03\LearnItCSD03\obj\Debug\net8.0\LearnItCSD03.csproj.CoreCompileInputs.cache
+C:\Users\engmt\source\repos\LearnItCSD03\LearnItCSD03\obj\Debug\net8.0\LearnItCSD03.dll
+C:\Users\engmt\source\repos\LearnItCSD03\LearnItCSD03\obj\Debug\net8.0\refint\LearnItCSD03.dll
+C:\Users\engmt\source\repos\LearnItCSD03\LearnItCSD03\obj\Debug\net8.0\LearnItCSD03.pdb
+C:\Users\engmt\source\repos\LearnItCSD03\LearnItCSD03\obj\Debug\net8.0\LearnItCSD03.genruntimeconfig.cache
+C:\Users\engmt\source\repos\LearnItCSD03\LearnItCSD03\obj\Debug\net8.0\ref\LearnItCSD03.dll

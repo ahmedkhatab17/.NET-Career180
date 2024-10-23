@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BootCamp\\SecondConsoleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9369D29E-4E91-4EF1-ADAF-3251F05C6C94}|SecondConsoleApp\\SecondConsoleApp.csproj|d:\\bootcamp\\secondconsoleapp\\secondconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9369D29E-4E91-4EF1-ADAF-3251F05C6C94}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9369D29E-4E91-4EF1-ADAF-3251F05C6C94}|SecondConsoleApp\\SecondConsoleApp.csproj|d:\\bootcamp\\secondconsoleapp\\secondconsoleapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9369D29E-4E91-4EF1-ADAF-3251F05C6C94}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9369D29E-4E91-4EF1-ADAF-3251F05C6C94}|SecondConsoleApp\\SecondConsoleApp.csproj|d:\\bootcamp\\secondconsoleapp\\secondconsoleapp\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9369D29E-4E91-4EF1-ADAF-3251F05C6C94}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB5592F-380B-4AC7-A217-E98984672C1B}|ClassLibrary1\\ClassLibrary1.csproj|d:\\bootcamp\\secondconsoleapp\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB5592F-380B-4AC7-A217-E98984672C1B}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9369D29E-4E91-4EF1-ADAF-3251F05C6C94}|SecondConsoleApp\\SecondConsoleApp.csproj|d:\\bootcamp\\secondconsoleapp\\secondconsoleapp\\genericclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9369D29E-4E91-4EF1-ADAF-3251F05C6C94}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\genericclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9369D29E-4E91-4EF1-ADAF-3251F05C6C94}|SecondConsoleApp\\SecondConsoleApp.csproj|d:\\bootcamp\\secondconsoleapp\\secondconsoleapp\\sealedclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9369D29E-4E91-4EF1-ADAF-3251F05C6C94}|SecondConsoleApp\\SecondConsoleApp.csproj|solutionrelative:secondconsoleapp\\sealedclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB5592F-380B-4AC7-A217-E98984672C1B}|ClassLibrary1\\ClassLibrary1.csproj|d:\\bootcamp\\secondconsoleapp\\classlibrary1\\callperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB5592F-380B-4AC7-A217-E98984672C1B}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\callperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericClass.cs",
+              "DocumentMoniker": "D:\\BootCamp\\SecondConsoleApp\\SecondConsoleApp\\GenericClass.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\GenericClass.cs",
+              "ToolTip": "D:\\BootCamp\\SecondConsoleApp\\SecondConsoleApp\\GenericClass.cs",
+              "RelativeToolTip": "SecondConsoleApp\\GenericClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:41:13.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SealedClass.cs",
+              "DocumentMoniker": "D:\\BootCamp\\SecondConsoleApp\\SecondConsoleApp\\SealedClass.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\SealedClass.cs",
+              "ToolTip": "D:\\BootCamp\\SecondConsoleApp\\SecondConsoleApp\\SealedClass.cs",
+              "RelativeToolTip": "SecondConsoleApp\\SealedClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:31:11.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\BootCamp\\SecondConsoleApp\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "D:\\BootCamp\\SecondConsoleApp\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:21:42.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CallPerson.cs",
+              "DocumentMoniker": "D:\\BootCamp\\SecondConsoleApp\\ClassLibrary1\\CallPerson.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\CallPerson.cs",
+              "ToolTip": "D:\\BootCamp\\SecondConsoleApp\\ClassLibrary1\\CallPerson.cs",
+              "RelativeToolTip": "ClassLibrary1\\CallPerson.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:16:49.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\BootCamp\\SecondConsoleApp\\SecondConsoleApp\\Person.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\Person.cs",
+              "ToolTip": "D:\\BootCamp\\SecondConsoleApp\\SecondConsoleApp\\Person.cs",
+              "RelativeToolTip": "SecondConsoleApp\\Person.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:11:21.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "D:\\BootCamp\\SecondConsoleApp\\SecondConsoleApp\\IPerson.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\IPerson.cs",
+              "ToolTip": "D:\\BootCamp\\SecondConsoleApp\\SecondConsoleApp\\IPerson.cs",
+              "RelativeToolTip": "SecondConsoleApp\\IPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:11:35.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BootCamp\\SecondConsoleApp\\SecondConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "SecondConsoleApp\\Program.cs",
+              "ToolTip": "D:\\BootCamp\\SecondConsoleApp\\SecondConsoleApp\\Program.cs",
+              "RelativeToolTip": "SecondConsoleApp\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:17:45.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
