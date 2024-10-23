@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\engmt\\source\\repos\\LearnItCSD04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9B0363-7CEF-4D84-8B71-A830B0388F44}|LearnItCSD04\\LearnItCSD04.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd04\\learnitcsd04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9B0363-7CEF-4D84-8B71-A830B0388F44}|LearnItCSD04\\LearnItCSD04.csproj|solutionrelative:learnitcsd04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9B0363-7CEF-4D84-8B71-A830B0388F44}|LearnItCSD04\\LearnItCSD04.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd04\\learnitcsd04\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9B0363-7CEF-4D84-8B71-A830B0388F44}|LearnItCSD04\\LearnItCSD04.csproj|solutionrelative:learnitcsd04\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9B0363-7CEF-4D84-8B71-A830B0388F44}|LearnItCSD04\\LearnItCSD04.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd04\\learnitcsd04\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9B0363-7CEF-4D84-8B71-A830B0388F44}|LearnItCSD04\\LearnItCSD04.csproj|solutionrelative:learnitcsd04\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9B0363-7CEF-4D84-8B71-A830B0388F44}|LearnItCSD04\\LearnItCSD04.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd04\\learnitcsd04\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9B0363-7CEF-4D84-8B71-A830B0388F44}|LearnItCSD04\\LearnItCSD04.csproj|solutionrelative:learnitcsd04\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9B0363-7CEF-4D84-8B71-A830B0388F44}|LearnItCSD04\\LearnItCSD04.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd04\\learnitcsd04\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9B0363-7CEF-4D84-8B71-A830B0388F44}|LearnItCSD04\\LearnItCSD04.csproj|solutionrelative:learnitcsd04\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9B0363-7CEF-4D84-8B71-A830B0388F44}|LearnItCSD04\\LearnItCSD04.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd04\\learnitcsd04\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9B0363-7CEF-4D84-8B71-A830B0388F44}|LearnItCSD04\\LearnItCSD04.csproj|solutionrelative:learnitcsd04\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9B0363-7CEF-4D84-8B71-A830B0388F44}|LearnItCSD04\\LearnItCSD04.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd04\\learnitcsd04\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9B0363-7CEF-4D84-8B71-A830B0388F44}|LearnItCSD04\\LearnItCSD04.csproj|solutionrelative:learnitcsd04\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD04\\LearnItCSD04\\Utility.cs",
+              "RelativeDocumentMoniker": "LearnItCSD04\\Utility.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD04\\LearnItCSD04\\Utility.cs",
+              "RelativeToolTip": "LearnItCSD04\\Utility.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:04:44.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD04\\LearnItCSD04\\Circle.cs",
+              "RelativeDocumentMoniker": "LearnItCSD04\\Circle.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD04\\LearnItCSD04\\Circle.cs",
+              "RelativeToolTip": "LearnItCSD04\\Circle.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:49:07.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD04\\LearnItCSD04\\Triangle.cs",
+              "RelativeDocumentMoniker": "LearnItCSD04\\Triangle.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD04\\LearnItCSD04\\Triangle.cs",
+              "RelativeToolTip": "LearnItCSD04\\Triangle.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAxwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:36:21.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD04\\LearnItCSD04\\Rectangle.cs",
+              "RelativeDocumentMoniker": "LearnItCSD04\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD04\\LearnItCSD04\\Rectangle.cs",
+              "RelativeToolTip": "LearnItCSD04\\Rectangle.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:30:34.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD04\\LearnItCSD04\\Program.cs",
+              "RelativeDocumentMoniker": "LearnItCSD04\\Program.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD04\\LearnItCSD04\\Program.cs*",
+              "RelativeToolTip": "LearnItCSD04\\Program.cs*",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAAAPkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:21:58.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD04\\LearnItCSD04\\Line.cs",
+              "RelativeDocumentMoniker": "LearnItCSD04\\Line.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD04\\LearnItCSD04\\Line.cs",
+              "RelativeToolTip": "LearnItCSD04\\Line.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA5wD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:18:35.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD04\\LearnItCSD04\\Point.cs",
+              "RelativeDocumentMoniker": "LearnItCSD04\\Point.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD04\\LearnItCSD04\\Point.cs",
+              "RelativeToolTip": "LearnItCSD04\\Point.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:16:23.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
