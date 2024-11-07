@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LearnItCSD06/1.0.0": {
+        "runtime": {
+          "LearnItCSD06.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LearnItCSD06/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
