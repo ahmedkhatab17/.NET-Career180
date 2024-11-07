@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\engmt\\source\\repos\\LearnItCSD08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1918836-686B-4587-B535-8CAF93BCC556}|LearnItCSD08\\LearnItCSD08.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd08\\learnitcsd08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1918836-686B-4587-B535-8CAF93BCC556}|LearnItCSD08\\LearnItCSD08.csproj|solutionrelative:learnitcsd08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1918836-686B-4587-B535-8CAF93BCC556}|LearnItCSD08\\LearnItCSD08.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd08\\learnitcsd08\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1918836-686B-4587-B535-8CAF93BCC556}|LearnItCSD08\\LearnItCSD08.csproj|solutionrelative:learnitcsd08\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1918836-686B-4587-B535-8CAF93BCC556}|LearnItCSD08\\LearnItCSD08.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd08\\learnitcsd08\\genericregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1918836-686B-4587-B535-8CAF93BCC556}|LearnItCSD08\\LearnItCSD08.csproj|solutionrelative:learnitcsd08\\genericregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1918836-686B-4587-B535-8CAF93BCC556}|LearnItCSD08\\LearnItCSD08.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd08\\learnitcsd08\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1918836-686B-4587-B535-8CAF93BCC556}|LearnItCSD08\\LearnItCSD08.csproj|solutionrelative:learnitcsd08\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1918836-686B-4587-B535-8CAF93BCC556}|LearnItCSD08\\LearnItCSD08.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd08\\learnitcsd08\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1918836-686B-4587-B535-8CAF93BCC556}|LearnItCSD08\\LearnItCSD08.csproj|solutionrelative:learnitcsd08\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRegion.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD08\\LearnItCSD08\\GenericRegion.cs",
+              "RelativeDocumentMoniker": "LearnItCSD08\\GenericRegion.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD08\\LearnItCSD08\\GenericRegion.cs",
+              "RelativeToolTip": "LearnItCSD08\\GenericRegion.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:38:44.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD08\\LearnItCSD08\\Program.cs",
+              "RelativeDocumentMoniker": "LearnItCSD08\\Program.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD08\\LearnItCSD08\\Program.cs",
+              "RelativeToolTip": "LearnItCSD08\\Program.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAQwNcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:36:04.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD08\\LearnItCSD08\\Employee.cs",
+              "RelativeDocumentMoniker": "LearnItCSD08\\Employee.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD08\\LearnItCSD08\\Employee.cs",
+              "RelativeToolTip": "LearnItCSD08\\Employee.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:35:31.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD08\\LearnItCSD08\\Point.cs",
+              "RelativeDocumentMoniker": "LearnItCSD08\\Point.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD08\\LearnItCSD08\\Point.cs",
+              "RelativeToolTip": "LearnItCSD08\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:34:45.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyStack.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD08\\LearnItCSD08\\MyStack.cs",
+              "RelativeDocumentMoniker": "LearnItCSD08\\MyStack.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD08\\LearnItCSD08\\MyStack.cs",
+              "RelativeToolTip": "LearnItCSD08\\MyStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:34:14.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
