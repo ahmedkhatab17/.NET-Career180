@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{537B2FF2-2048-4A32-9165-9920EA2E30F7}|AssignmentDay4\\AssignmentDay4.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday4\\assignmentday4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537B2FF2-2048-4A32-9165-9920EA2E30F7}|AssignmentDay4\\AssignmentDay4.csproj|solutionrelative:assignmentday4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537B2FF2-2048-4A32-9165-9920EA2E30F7}|AssignmentDay4\\AssignmentDay4.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday4\\assignmentday4\\tria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537B2FF2-2048-4A32-9165-9920EA2E30F7}|AssignmentDay4\\AssignmentDay4.csproj|solutionrelative:assignmentday4\\tria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537B2FF2-2048-4A32-9165-9920EA2E30F7}|AssignmentDay4\\AssignmentDay4.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday4\\assignmentday4\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537B2FF2-2048-4A32-9165-9920EA2E30F7}|AssignmentDay4\\AssignmentDay4.csproj|solutionrelative:assignmentday4\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537B2FF2-2048-4A32-9165-9920EA2E30F7}|AssignmentDay4\\AssignmentDay4.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday4\\assignmentday4\\rect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537B2FF2-2048-4A32-9165-9920EA2E30F7}|AssignmentDay4\\AssignmentDay4.csproj|solutionrelative:assignmentday4\\rect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537B2FF2-2048-4A32-9165-9920EA2E30F7}|AssignmentDay4\\AssignmentDay4.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday4\\assignmentday4\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537B2FF2-2048-4A32-9165-9920EA2E30F7}|AssignmentDay4\\AssignmentDay4.csproj|solutionrelative:assignmentday4\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537B2FF2-2048-4A32-9165-9920EA2E30F7}|AssignmentDay4\\AssignmentDay4.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday4\\assignmentday4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537B2FF2-2048-4A32-9165-9920EA2E30F7}|AssignmentDay4\\AssignmentDay4.csproj|solutionrelative:assignmentday4\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537B2FF2-2048-4A32-9165-9920EA2E30F7}|AssignmentDay4\\AssignmentDay4.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday4\\assignmentday4\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537B2FF2-2048-4A32-9165-9920EA2E30F7}|AssignmentDay4\\AssignmentDay4.csproj|solutionrelative:assignmentday4\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537B2FF2-2048-4A32-9165-9920EA2E30F7}|AssignmentDay4\\AssignmentDay4.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday4\\assignmentday4\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537B2FF2-2048-4A32-9165-9920EA2E30F7}|AssignmentDay4\\AssignmentDay4.csproj|solutionrelative:assignmentday4\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537B2FF2-2048-4A32-9165-9920EA2E30F7}|AssignmentDay4\\AssignmentDay4.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday4\\assignmentday4\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537B2FF2-2048-4A32-9165-9920EA2E30F7}|AssignmentDay4\\AssignmentDay4.csproj|solutionrelative:assignmentday4\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay4\\AssignmentDay4\\Circle.cs",
+              "RelativeDocumentMoniker": "AssignmentDay4\\Circle.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay4\\AssignmentDay4\\Circle.cs",
+              "RelativeToolTip": "AssignmentDay4\\Circle.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T01:02:10.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay4\\AssignmentDay4\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentDay4\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay4\\AssignmentDay4\\Program.cs",
+              "RelativeToolTip": "AssignmentDay4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:37:49.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tria.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay4\\AssignmentDay4\\Tria.cs",
+              "RelativeDocumentMoniker": "AssignmentDay4\\Tria.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay4\\AssignmentDay4\\Tria.cs",
+              "RelativeToolTip": "AssignmentDay4\\Tria.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAA3wEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T00:36:42.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rect.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay4\\AssignmentDay4\\Rect.cs",
+              "RelativeDocumentMoniker": "AssignmentDay4\\Rect.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay4\\AssignmentDay4\\Rect.cs",
+              "RelativeToolTip": "AssignmentDay4\\Rect.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwDQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T00:26:50.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay4\\AssignmentDay4\\Employee.cs",
+              "RelativeDocumentMoniker": "AssignmentDay4\\Employee.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay4\\AssignmentDay4\\Employee.cs",
+              "RelativeToolTip": "AssignmentDay4\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T23:42:37.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay4\\AssignmentDay4\\Line.cs",
+              "RelativeDocumentMoniker": "AssignmentDay4\\Line.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay4\\AssignmentDay4\\Line.cs",
+              "RelativeToolTip": "AssignmentDay4\\Line.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wDAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T23:28:53.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay4\\AssignmentDay4\\Point.cs",
+              "RelativeDocumentMoniker": "AssignmentDay4\\Point.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay4\\AssignmentDay4\\Point.cs",
+              "RelativeToolTip": "AssignmentDay4\\Point.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T23:23:58.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay4\\AssignmentDay4\\Person.cs",
+              "RelativeDocumentMoniker": "AssignmentDay4\\Person.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay4\\AssignmentDay4\\Person.cs",
+              "RelativeToolTip": "AssignmentDay4\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:46:35.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay4\\AssignmentDay4\\Student.cs",
+              "RelativeDocumentMoniker": "AssignmentDay4\\Student.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay4\\AssignmentDay4\\Student.cs",
+              "RelativeToolTip": "AssignmentDay4\\Student.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwGkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T16:38:52.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
