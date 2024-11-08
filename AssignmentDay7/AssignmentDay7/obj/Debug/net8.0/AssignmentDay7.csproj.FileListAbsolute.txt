@@ -1,0 +1,15 @@
+C:\Users\ahmed\OneDrive\Desktop\Career180\AssignmentDay7\AssignmentDay7\bin\Debug\net8.0\AssignmentDay7.exe
+C:\Users\ahmed\OneDrive\Desktop\Career180\AssignmentDay7\AssignmentDay7\bin\Debug\net8.0\AssignmentDay7.deps.json
+C:\Users\ahmed\OneDrive\Desktop\Career180\AssignmentDay7\AssignmentDay7\bin\Debug\net8.0\AssignmentDay7.runtimeconfig.json
+C:\Users\ahmed\OneDrive\Desktop\Career180\AssignmentDay7\AssignmentDay7\bin\Debug\net8.0\AssignmentDay7.dll
+C:\Users\ahmed\OneDrive\Desktop\Career180\AssignmentDay7\AssignmentDay7\bin\Debug\net8.0\AssignmentDay7.pdb
+C:\Users\ahmed\OneDrive\Desktop\Career180\AssignmentDay7\AssignmentDay7\obj\Debug\net8.0\AssignmentDay7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\OneDrive\Desktop\Career180\AssignmentDay7\AssignmentDay7\obj\Debug\net8.0\AssignmentDay7.AssemblyInfoInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Career180\AssignmentDay7\AssignmentDay7\obj\Debug\net8.0\AssignmentDay7.AssemblyInfo.cs
+C:\Users\ahmed\OneDrive\Desktop\Career180\AssignmentDay7\AssignmentDay7\obj\Debug\net8.0\AssignmentDay7.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\Career180\AssignmentDay7\AssignmentDay7\obj\Debug\net8.0\AssignmentDay7.sourcelink.json
+C:\Users\ahmed\OneDrive\Desktop\Career180\AssignmentDay7\AssignmentDay7\obj\Debug\net8.0\AssignmentDay7.dll
+C:\Users\ahmed\OneDrive\Desktop\Career180\AssignmentDay7\AssignmentDay7\obj\Debug\net8.0\refint\AssignmentDay7.dll
+C:\Users\ahmed\OneDrive\Desktop\Career180\AssignmentDay7\AssignmentDay7\obj\Debug\net8.0\AssignmentDay7.pdb
+C:\Users\ahmed\OneDrive\Desktop\Career180\AssignmentDay7\AssignmentDay7\obj\Debug\net8.0\AssignmentDay7.genruntimeconfig.cache
+C:\Users\ahmed\OneDrive\Desktop\Career180\AssignmentDay7\AssignmentDay7\obj\Debug\net8.0\ref\AssignmentDay7.dll

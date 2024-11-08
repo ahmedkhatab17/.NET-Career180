@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9ED1AA-BC6D-403C-A30B-984E4C76012B}|AssignmentDay7\\AssignmentDay7.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday7\\assignmentday7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9ED1AA-BC6D-403C-A30B-984E4C76012B}|AssignmentDay7\\AssignmentDay7.csproj|solutionrelative:assignmentday7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9ED1AA-BC6D-403C-A30B-984E4C76012B}|AssignmentDay7\\AssignmentDay7.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday7\\assignmentday7\\hiredate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9ED1AA-BC6D-403C-A30B-984E4C76012B}|AssignmentDay7\\AssignmentDay7.csproj|solutionrelative:assignmentday7\\hiredate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9ED1AA-BC6D-403C-A30B-984E4C76012B}|AssignmentDay7\\AssignmentDay7.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday7\\assignmentday7\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9ED1AA-BC6D-403C-A30B-984E4C76012B}|AssignmentDay7\\AssignmentDay7.csproj|solutionrelative:assignmentday7\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9ED1AA-BC6D-403C-A30B-984E4C76012B}|AssignmentDay7\\AssignmentDay7.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday7\\assignmentday7\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9ED1AA-BC6D-403C-A30B-984E4C76012B}|AssignmentDay7\\AssignmentDay7.csproj|solutionrelative:assignmentday7\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9ED1AA-BC6D-403C-A30B-984E4C76012B}|AssignmentDay7\\AssignmentDay7.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday7\\assignmentday7\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9ED1AA-BC6D-403C-A30B-984E4C76012B}|AssignmentDay7\\AssignmentDay7.csproj|solutionrelative:assignmentday7\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HireDate.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay7\\AssignmentDay7\\HireDate.cs",
+              "RelativeDocumentMoniker": "AssignmentDay7\\HireDate.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay7\\AssignmentDay7\\HireDate.cs",
+              "RelativeToolTip": "AssignmentDay7\\HireDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:48:48.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay7\\AssignmentDay7\\Employee.cs",
+              "RelativeDocumentMoniker": "AssignmentDay7\\Employee.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay7\\AssignmentDay7\\Employee.cs",
+              "RelativeToolTip": "AssignmentDay7\\Employee.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvyQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:41:27.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Point3D.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay7\\AssignmentDay7\\Point3D.cs",
+              "RelativeDocumentMoniker": "AssignmentDay7\\Point3D.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay7\\AssignmentDay7\\Point3D.cs",
+              "RelativeToolTip": "AssignmentDay7\\Point3D.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:10:50.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay7\\AssignmentDay7\\Enum.cs",
+              "RelativeDocumentMoniker": "AssignmentDay7\\Enum.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay7\\AssignmentDay7\\Enum.cs",
+              "RelativeToolTip": "AssignmentDay7\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:27:37.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay7\\AssignmentDay7\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentDay7\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay7\\AssignmentDay7\\Program.cs",
+              "RelativeToolTip": "AssignmentDay7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:54:50.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
