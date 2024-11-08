@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{062CAF4B-AD11-48C6-BC2A-D460C8A7F21E}|AssignmentDay6\\AssignmentDay6.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday6\\assignmentday6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062CAF4B-AD11-48C6-BC2A-D460C8A7F21E}|AssignmentDay6\\AssignmentDay6.csproj|solutionrelative:assignmentday6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062CAF4B-AD11-48C6-BC2A-D460C8A7F21E}|AssignmentDay6\\AssignmentDay6.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday6\\assignmentday6\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062CAF4B-AD11-48C6-BC2A-D460C8A7F21E}|AssignmentDay6\\AssignmentDay6.csproj|solutionrelative:assignmentday6\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062CAF4B-AD11-48C6-BC2A-D460C8A7F21E}|AssignmentDay6\\AssignmentDay6.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday6\\assignmentday6\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062CAF4B-AD11-48C6-BC2A-D460C8A7F21E}|AssignmentDay6\\AssignmentDay6.csproj|solutionrelative:assignmentday6\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{062CAF4B-AD11-48C6-BC2A-D460C8A7F21E}|AssignmentDay6\\AssignmentDay6.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday6\\assignmentday6\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{062CAF4B-AD11-48C6-BC2A-D460C8A7F21E}|AssignmentDay6\\AssignmentDay6.csproj|solutionrelative:assignmentday6\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Duration.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay6\\AssignmentDay6\\Duration.cs",
+              "RelativeDocumentMoniker": "AssignmentDay6\\Duration.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay6\\AssignmentDay6\\Duration.cs*",
+              "RelativeToolTip": "AssignmentDay6\\Duration.cs*",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwEwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:47:20.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Math.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay6\\AssignmentDay6\\Math.cs",
+              "RelativeDocumentMoniker": "AssignmentDay6\\Math.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay6\\AssignmentDay6\\Math.cs*",
+              "RelativeToolTip": "AssignmentDay6\\Math.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:32:32.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Point3D.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay6\\AssignmentDay6\\Point3D.cs",
+              "RelativeDocumentMoniker": "AssignmentDay6\\Point3D.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay6\\AssignmentDay6\\Point3D.cs*",
+              "RelativeToolTip": "AssignmentDay6\\Point3D.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T23:02:50.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay6\\AssignmentDay6\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentDay6\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay6\\AssignmentDay6\\Program.cs*",
+              "RelativeToolTip": "AssignmentDay6\\Program.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:55:03.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
