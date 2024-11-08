@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED065983-5D86-4A5D-9FB2-0B0E954C2E7F}|AssignmentDay5\\AssignmentDay5.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday5\\assignmentday5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED065983-5D86-4A5D-9FB2-0B0E954C2E7F}|AssignmentDay5\\AssignmentDay5.csproj|solutionrelative:assignmentday5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED065983-5D86-4A5D-9FB2-0B0E954C2E7F}|AssignmentDay5\\AssignmentDay5.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday5\\assignmentday5\\geoshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED065983-5D86-4A5D-9FB2-0B0E954C2E7F}|AssignmentDay5\\AssignmentDay5.csproj|solutionrelative:assignmentday5\\geoshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED065983-5D86-4A5D-9FB2-0B0E954C2E7F}|AssignmentDay5\\AssignmentDay5.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday5\\assignmentday5\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED065983-5D86-4A5D-9FB2-0B0E954C2E7F}|AssignmentDay5\\AssignmentDay5.csproj|solutionrelative:assignmentday5\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED065983-5D86-4A5D-9FB2-0B0E954C2E7F}|AssignmentDay5\\AssignmentDay5.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday5\\assignmentday5\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED065983-5D86-4A5D-9FB2-0B0E954C2E7F}|AssignmentDay5\\AssignmentDay5.csproj|solutionrelative:assignmentday5\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay5\\AssignmentDay5\\Base.cs",
+              "RelativeDocumentMoniker": "AssignmentDay5\\Base.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay5\\AssignmentDay5\\Base.cs",
+              "RelativeToolTip": "AssignmentDay5\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:52:25.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Geoshape.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay5\\AssignmentDay5\\Geoshape.cs",
+              "RelativeDocumentMoniker": "AssignmentDay5\\Geoshape.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay5\\AssignmentDay5\\Geoshape.cs",
+              "RelativeToolTip": "AssignmentDay5\\Geoshape.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T20:53:35.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay5\\AssignmentDay5\\Parent.cs",
+              "RelativeDocumentMoniker": "AssignmentDay5\\Parent.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay5\\AssignmentDay5\\Parent.cs",
+              "RelativeToolTip": "AssignmentDay5\\Parent.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA0wDMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:52:41.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay5\\AssignmentDay5\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentDay5\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay5\\AssignmentDay5\\Program.cs",
+              "RelativeToolTip": "AssignmentDay5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:29:22.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
