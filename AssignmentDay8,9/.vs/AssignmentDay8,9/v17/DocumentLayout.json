@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay8,9\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BD113541-50B5-4C3B-A352-EEE7A4075817}|AssignmentDay8,9\\AssignmentDay8,9.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday8,9\\assignmentday8,9\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD113541-50B5-4C3B-A352-EEE7A4075817}|AssignmentDay8,9\\AssignmentDay8,9.csproj|solutionrelative:assignmentday8,9\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BD113541-50B5-4C3B-A352-EEE7A4075817}|AssignmentDay8,9\\AssignmentDay8,9.csproj|c:\\users\\ahmed\\onedrive\\desktop\\career180\\assignmentday8,9\\assignmentday8,9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD113541-50B5-4C3B-A352-EEE7A4075817}|AssignmentDay8,9\\AssignmentDay8,9.csproj|solutionrelative:assignmentday8,9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "MyStack.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay8,9\\AssignmentDay8,9\\MyStack.cs",
+              "RelativeDocumentMoniker": "AssignmentDay8,9\\MyStack.cs",
+              "ToolTip": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay8,9\\AssignmentDay8,9\\MyStack.cs",
+              "RelativeToolTip": "AssignmentDay8,9\\MyStack.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:49:56.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DelegateRegion.cs",
               "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay8,9\\AssignmentDay8,9\\DelegateRegion.cs",
               "RelativeDocumentMoniker": "AssignmentDay8,9\\DelegateRegion.cs",
@@ -46,12 +63,11 @@
               "RelativeToolTip": "AssignmentDay8,9\\DelegateRegion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T21:27:52.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T21:27:52.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Filtration2.cs",
               "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay8,9\\AssignmentDay8,9\\Filtration2.cs",
               "RelativeDocumentMoniker": "AssignmentDay8,9\\Filtration2.cs",
@@ -59,12 +75,11 @@
               "RelativeToolTip": "AssignmentDay8,9\\Filtration2.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T21:14:30.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T21:14:30.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Filtration1.cs",
               "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay8,9\\AssignmentDay8,9\\Filtration1.cs",
               "RelativeDocumentMoniker": "AssignmentDay8,9\\Filtration1.cs",
@@ -72,12 +87,11 @@
               "RelativeToolTip": "AssignmentDay8,9\\Filtration1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T21:13:41.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T21:13:41.653Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay8,9\\AssignmentDay8,9\\Repository.cs",
               "RelativeDocumentMoniker": "AssignmentDay8,9\\Repository.cs",
@@ -85,12 +99,11 @@
               "RelativeToolTip": "AssignmentDay8,9\\Repository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T21:04:30.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T21:04:30.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay8,9\\AssignmentDay8,9\\Employee.cs",
               "RelativeDocumentMoniker": "AssignmentDay8,9\\Employee.cs",
@@ -98,12 +111,11 @@
               "RelativeToolTip": "AssignmentDay8,9\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T21:01:07.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-08T21:01:07.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\AssignmentDay8,9\\AssignmentDay8,9\\Program.cs",
               "RelativeDocumentMoniker": "AssignmentDay8,9\\Program.cs",
