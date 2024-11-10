@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\engmt\\Desktop\\C# Learn\\C# D10\\LearnItCSD10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F408D68E-38DE-4D47-B24E-88AE1EEA62DD}|WinFormsFirstLook\\WinFormsFirstLook.csproj|c:\\users\\engmt\\desktop\\c# learn\\c# d10\\learnitcsd10\\winformsfirstlook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408D68E-38DE-4D47-B24E-88AE1EEA62DD}|WinFormsFirstLook\\WinFormsFirstLook.csproj|solutionrelative:winformsfirstlook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408D68E-38DE-4D47-B24E-88AE1EEA62DD}|WinFormsFirstLook\\WinFormsFirstLook.csproj|C:\\Users\\engmt\\Desktop\\C# Learn\\C# D10\\LearnItCSD10\\winformsfirstlook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F408D68E-38DE-4D47-B24E-88AE1EEA62DD}|WinFormsFirstLook\\WinFormsFirstLook.csproj|solutionrelative:winformsfirstlook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408D68E-38DE-4D47-B24E-88AE1EEA62DD}|WinFormsFirstLook\\WinFormsFirstLook.csproj|c:\\users\\engmt\\desktop\\c# learn\\c# d10\\learnitcsd10\\winformsfirstlook\\winformsfirstlook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F408D68E-38DE-4D47-B24E-88AE1EEA62DD}|WinFormsFirstLook\\WinFormsFirstLook.csproj|solutionrelative:winformsfirstlook\\winformsfirstlook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70F18F9-A7F2-4D92-8F36-27552A2DE222}|EventsExample02\\EventsExample02.csproj|c:\\users\\engmt\\desktop\\c# learn\\c# d10\\learnitcsd10\\eventsexample02\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70F18F9-A7F2-4D92-8F36-27552A2DE222}|EventsExample02\\EventsExample02.csproj|solutionrelative:eventsexample02\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70F18F9-A7F2-4D92-8F36-27552A2DE222}|EventsExample02\\EventsExample02.csproj|c:\\users\\engmt\\desktop\\c# learn\\c# d10\\learnitcsd10\\eventsexample02\\creditcardbankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70F18F9-A7F2-4D92-8F36-27552A2DE222}|EventsExample02\\EventsExample02.csproj|solutionrelative:eventsexample02\\creditcardbankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D70F18F9-A7F2-4D92-8F36-27552A2DE222}|EventsExample02\\EventsExample02.csproj|c:\\users\\engmt\\desktop\\c# learn\\c# d10\\learnitcsd10\\eventsexample02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D70F18F9-A7F2-4D92-8F36-27552A2DE222}|EventsExample02\\EventsExample02.csproj|solutionrelative:eventsexample02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F408D68E-38DE-4D47-B24E-88AE1EEA62DD}|WinFormsFirstLook\\WinFormsFirstLook.csproj|c:\\users\\engmt\\desktop\\c# learn\\c# d10\\learnitcsd10\\winformsfirstlook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F408D68E-38DE-4D47-B24E-88AE1EEA62DD}|WinFormsFirstLook\\WinFormsFirstLook.csproj|solutionrelative:winformsfirstlook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WinFormsFirstLook",
+              "DocumentMoniker": "C:\\Users\\engmt\\Desktop\\C# Learn\\C# D10\\LearnItCSD10\\WinFormsFirstLook\\WinFormsFirstLook.csproj",
+              "RelativeDocumentMoniker": "WinFormsFirstLook\\WinFormsFirstLook.csproj",
+              "ToolTip": "C:\\Users\\engmt\\Desktop\\C# Learn\\C# D10\\LearnItCSD10\\WinFormsFirstLook\\WinFormsFirstLook.csproj",
+              "RelativeToolTip": "WinFormsFirstLook\\WinFormsFirstLook.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T19:35:37.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\Desktop\\C# Learn\\C# D10\\LearnItCSD10\\EventsExample02\\BankAccount.cs",
+              "RelativeDocumentMoniker": "EventsExample02\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\engmt\\Desktop\\C# Learn\\C# D10\\LearnItCSD10\\EventsExample02\\BankAccount.cs",
+              "RelativeToolTip": "EventsExample02\\BankAccount.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA1wB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:32:58.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreditCardBankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\Desktop\\C# Learn\\C# D10\\LearnItCSD10\\EventsExample02\\CreditCardBankAccount.cs",
+              "RelativeDocumentMoniker": "EventsExample02\\CreditCardBankAccount.cs",
+              "ToolTip": "C:\\Users\\engmt\\Desktop\\C# Learn\\C# D10\\LearnItCSD10\\EventsExample02\\CreditCardBankAccount.cs",
+              "RelativeToolTip": "EventsExample02\\CreditCardBankAccount.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:32:37.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\Desktop\\C# Learn\\C# D10\\LearnItCSD10\\EventsExample02\\Program.cs",
+              "RelativeDocumentMoniker": "EventsExample02\\Program.cs",
+              "ToolTip": "C:\\Users\\engmt\\Desktop\\C# Learn\\C# D10\\LearnItCSD10\\EventsExample02\\Program.cs",
+              "RelativeToolTip": "EventsExample02\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwEgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:19:42.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\Desktop\\C# Learn\\C# D10\\LearnItCSD10\\WinFormsFirstLook\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsFirstLook\\Form1.cs",
+              "ToolTip": "C:\\Users\\engmt\\Desktop\\C# Learn\\C# D10\\LearnItCSD10\\WinFormsFirstLook\\Form1.cs",
+              "RelativeToolTip": "WinFormsFirstLook\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwA8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:20:38.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\Desktop\\C# Learn\\C# D10\\LearnItCSD10\\WinFormsFirstLook\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsFirstLook\\Program.cs",
+              "ToolTip": "C:\\Users\\engmt\\Desktop\\C# Learn\\C# D10\\LearnItCSD10\\WinFormsFirstLook\\Program.cs",
+              "RelativeToolTip": "WinFormsFirstLook\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:19:02.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\engmt\\Desktop\\C# Learn\\C# D10\\LearnItCSD10\\WinFormsFirstLook\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsFirstLook\\Form1.cs",
+              "ToolTip": "C:\\Users\\engmt\\Desktop\\C# Learn\\C# D10\\LearnItCSD10\\WinFormsFirstLook\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsFirstLook\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:18:32.274Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

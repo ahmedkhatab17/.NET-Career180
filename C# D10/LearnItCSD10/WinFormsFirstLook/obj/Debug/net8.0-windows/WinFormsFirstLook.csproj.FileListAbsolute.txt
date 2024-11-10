@@ -1,0 +1,16 @@
+C:\Users\engmt\source\repos\LearnItCSD10\WinFormsFirstLook\bin\Debug\net8.0-windows\WinFormsFirstLook.exe
+C:\Users\engmt\source\repos\LearnItCSD10\WinFormsFirstLook\bin\Debug\net8.0-windows\WinFormsFirstLook.deps.json
+C:\Users\engmt\source\repos\LearnItCSD10\WinFormsFirstLook\bin\Debug\net8.0-windows\WinFormsFirstLook.runtimeconfig.json
+C:\Users\engmt\source\repos\LearnItCSD10\WinFormsFirstLook\bin\Debug\net8.0-windows\WinFormsFirstLook.dll
+C:\Users\engmt\source\repos\LearnItCSD10\WinFormsFirstLook\bin\Debug\net8.0-windows\WinFormsFirstLook.pdb
+C:\Users\engmt\source\repos\LearnItCSD10\WinFormsFirstLook\obj\Debug\net8.0-windows\WinFormsFirstLook.Form1.resources
+C:\Users\engmt\source\repos\LearnItCSD10\WinFormsFirstLook\obj\Debug\net8.0-windows\WinFormsFirstLook.csproj.GenerateResource.cache
+C:\Users\engmt\source\repos\LearnItCSD10\WinFormsFirstLook\obj\Debug\net8.0-windows\WinFormsFirstLook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engmt\source\repos\LearnItCSD10\WinFormsFirstLook\obj\Debug\net8.0-windows\WinFormsFirstLook.AssemblyInfoInputs.cache
+C:\Users\engmt\source\repos\LearnItCSD10\WinFormsFirstLook\obj\Debug\net8.0-windows\WinFormsFirstLook.AssemblyInfo.cs
+C:\Users\engmt\source\repos\LearnItCSD10\WinFormsFirstLook\obj\Debug\net8.0-windows\WinFormsFirstLook.csproj.CoreCompileInputs.cache
+C:\Users\engmt\source\repos\LearnItCSD10\WinFormsFirstLook\obj\Debug\net8.0-windows\WinFormsFirstLook.dll
+C:\Users\engmt\source\repos\LearnItCSD10\WinFormsFirstLook\obj\Debug\net8.0-windows\refint\WinFormsFirstLook.dll
+C:\Users\engmt\source\repos\LearnItCSD10\WinFormsFirstLook\obj\Debug\net8.0-windows\WinFormsFirstLook.pdb
+C:\Users\engmt\source\repos\LearnItCSD10\WinFormsFirstLook\obj\Debug\net8.0-windows\WinFormsFirstLook.genruntimeconfig.cache
+C:\Users\engmt\source\repos\LearnItCSD10\WinFormsFirstLook\obj\Debug\net8.0-windows\ref\WinFormsFirstLook.dll
