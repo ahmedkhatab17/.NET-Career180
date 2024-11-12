@@ -1,0 +1,15 @@
+D:\Career180\AssignmentDay10\BankModel\bin\Debug\net8.0\BankModel.exe
+D:\Career180\AssignmentDay10\BankModel\bin\Debug\net8.0\BankModel.deps.json
+D:\Career180\AssignmentDay10\BankModel\bin\Debug\net8.0\BankModel.runtimeconfig.json
+D:\Career180\AssignmentDay10\BankModel\bin\Debug\net8.0\BankModel.dll
+D:\Career180\AssignmentDay10\BankModel\bin\Debug\net8.0\BankModel.pdb
+D:\Career180\AssignmentDay10\BankModel\obj\Debug\net8.0\BankModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career180\AssignmentDay10\BankModel\obj\Debug\net8.0\BankModel.AssemblyInfoInputs.cache
+D:\Career180\AssignmentDay10\BankModel\obj\Debug\net8.0\BankModel.AssemblyInfo.cs
+D:\Career180\AssignmentDay10\BankModel\obj\Debug\net8.0\BankModel.csproj.CoreCompileInputs.cache
+D:\Career180\AssignmentDay10\BankModel\obj\Debug\net8.0\BankModel.sourcelink.json
+D:\Career180\AssignmentDay10\BankModel\obj\Debug\net8.0\BankModel.dll
+D:\Career180\AssignmentDay10\BankModel\obj\Debug\net8.0\refint\BankModel.dll
+D:\Career180\AssignmentDay10\BankModel\obj\Debug\net8.0\BankModel.pdb
+D:\Career180\AssignmentDay10\BankModel\obj\Debug\net8.0\BankModel.genruntimeconfig.cache
+D:\Career180\AssignmentDay10\BankModel\obj\Debug\net8.0\ref\BankModel.dll

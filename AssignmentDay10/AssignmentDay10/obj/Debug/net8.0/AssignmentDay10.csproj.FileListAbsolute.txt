@@ -1,0 +1,15 @@
+D:\Career180\AssignmentDay10\AssignmentDay10\bin\Debug\net8.0\AssignmentDay10.exe
+D:\Career180\AssignmentDay10\AssignmentDay10\bin\Debug\net8.0\AssignmentDay10.deps.json
+D:\Career180\AssignmentDay10\AssignmentDay10\bin\Debug\net8.0\AssignmentDay10.runtimeconfig.json
+D:\Career180\AssignmentDay10\AssignmentDay10\bin\Debug\net8.0\AssignmentDay10.dll
+D:\Career180\AssignmentDay10\AssignmentDay10\bin\Debug\net8.0\AssignmentDay10.pdb
+D:\Career180\AssignmentDay10\AssignmentDay10\obj\Debug\net8.0\AssignmentDay10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career180\AssignmentDay10\AssignmentDay10\obj\Debug\net8.0\AssignmentDay10.AssemblyInfoInputs.cache
+D:\Career180\AssignmentDay10\AssignmentDay10\obj\Debug\net8.0\AssignmentDay10.AssemblyInfo.cs
+D:\Career180\AssignmentDay10\AssignmentDay10\obj\Debug\net8.0\AssignmentDay10.csproj.CoreCompileInputs.cache
+D:\Career180\AssignmentDay10\AssignmentDay10\obj\Debug\net8.0\AssignmentDay10.sourcelink.json
+D:\Career180\AssignmentDay10\AssignmentDay10\obj\Debug\net8.0\AssignmentDay10.dll
+D:\Career180\AssignmentDay10\AssignmentDay10\obj\Debug\net8.0\refint\AssignmentDay10.dll
+D:\Career180\AssignmentDay10\AssignmentDay10\obj\Debug\net8.0\AssignmentDay10.pdb
+D:\Career180\AssignmentDay10\AssignmentDay10\obj\Debug\net8.0\AssignmentDay10.genruntimeconfig.cache
+D:\Career180\AssignmentDay10\AssignmentDay10\obj\Debug\net8.0\ref\AssignmentDay10.dll

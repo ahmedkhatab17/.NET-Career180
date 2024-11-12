@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Career180\\AssignmentDay10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{707A4BF6-0FDE-4FFB-9CD0-7BD68C532510}|BankModel\\BankModel.csproj|d:\\career180\\assignmentday10\\bankmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A4BF6-0FDE-4FFB-9CD0-7BD68C532510}|BankModel\\BankModel.csproj|solutionrelative:bankmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A4BF6-0FDE-4FFB-9CD0-7BD68C532510}|BankModel\\BankModel.csproj|d:\\career180\\assignmentday10\\bankmodel\\creaditcardbankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A4BF6-0FDE-4FFB-9CD0-7BD68C532510}|BankModel\\BankModel.csproj|solutionrelative:bankmodel\\creaditcardbankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A4BF6-0FDE-4FFB-9CD0-7BD68C532510}|BankModel\\BankModel.csproj|d:\\career180\\assignmentday10\\bankmodel\\enterprisebankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A4BF6-0FDE-4FFB-9CD0-7BD68C532510}|BankModel\\BankModel.csproj|solutionrelative:bankmodel\\enterprisebankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A4BF6-0FDE-4FFB-9CD0-7BD68C532510}|BankModel\\BankModel.csproj|d:\\career180\\assignmentday10\\bankmodel\\old0bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A4BF6-0FDE-4FFB-9CD0-7BD68C532510}|BankModel\\BankModel.csproj|solutionrelative:bankmodel\\old0bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A4BF6-0FDE-4FFB-9CD0-7BD68C532510}|BankModel\\BankModel.csproj|d:\\career180\\assignmentday10\\bankmodel\\blacklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A4BF6-0FDE-4FFB-9CD0-7BD68C532510}|BankModel\\BankModel.csproj|solutionrelative:bankmodel\\blacklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A4BF6-0FDE-4FFB-9CD0-7BD68C532510}|BankModel\\BankModel.csproj|d:\\career180\\assignmentday10\\bankmodel\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A4BF6-0FDE-4FFB-9CD0-7BD68C532510}|BankModel\\BankModel.csproj|solutionrelative:bankmodel\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A4BF6-0FDE-4FFB-9CD0-7BD68C532510}|BankModel\\BankModel.csproj|d:\\career180\\assignmentday10\\bankmodel\\underbalancedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A4BF6-0FDE-4FFB-9CD0-7BD68C532510}|BankModel\\BankModel.csproj|solutionrelative:bankmodel\\underbalancedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707A4BF6-0FDE-4FFB-9CD0-7BD68C532510}|BankModel\\BankModel.csproj|d:\\career180\\assignmentday10\\bankmodel\\bankajent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707A4BF6-0FDE-4FFB-9CD0-7BD68C532510}|BankModel\\BankModel.csproj|solutionrelative:bankmodel\\bankajent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreaditCardBankAccount.cs",
+              "DocumentMoniker": "D:\\Career180\\AssignmentDay10\\BankModel\\CreaditCardBankAccount.cs",
+              "RelativeDocumentMoniker": "BankModel\\CreaditCardBankAccount.cs",
+              "ToolTip": "D:\\Career180\\AssignmentDay10\\BankModel\\CreaditCardBankAccount.cs*",
+              "RelativeToolTip": "BankModel\\CreaditCardBankAccount.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T23:54:24.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnterpriseBankAccount.cs",
+              "DocumentMoniker": "D:\\Career180\\AssignmentDay10\\BankModel\\EnterpriseBankAccount.cs",
+              "RelativeDocumentMoniker": "BankModel\\EnterpriseBankAccount.cs",
+              "ToolTip": "D:\\Career180\\AssignmentDay10\\BankModel\\EnterpriseBankAccount.cs*",
+              "RelativeToolTip": "BankModel\\EnterpriseBankAccount.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T23:39:20.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\Career180\\AssignmentDay10\\BankModel\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankModel\\BankAccount.cs",
+              "ToolTip": "D:\\Career180\\AssignmentDay10\\BankModel\\BankAccount.cs",
+              "RelativeToolTip": "BankModel\\BankAccount.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T23:08:08.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlackList.cs",
+              "DocumentMoniker": "D:\\Career180\\AssignmentDay10\\BankModel\\BlackList.cs",
+              "RelativeDocumentMoniker": "BankModel\\BlackList.cs",
+              "ToolTip": "D:\\Career180\\AssignmentDay10\\BankModel\\BlackList.cs",
+              "RelativeToolTip": "BankModel\\BlackList.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:31:04.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Career180\\AssignmentDay10\\BankModel\\Program.cs",
+              "RelativeDocumentMoniker": "BankModel\\Program.cs",
+              "ToolTip": "D:\\Career180\\AssignmentDay10\\BankModel\\Program.cs*",
+              "RelativeToolTip": "BankModel\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:02:15.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnderBalancedEventArgs.cs",
+              "DocumentMoniker": "D:\\Career180\\AssignmentDay10\\BankModel\\UnderBalancedEventArgs.cs",
+              "RelativeDocumentMoniker": "BankModel\\UnderBalancedEventArgs.cs",
+              "ToolTip": "D:\\Career180\\AssignmentDay10\\BankModel\\UnderBalancedEventArgs.cs",
+              "RelativeToolTip": "BankModel\\UnderBalancedEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T23:05:18.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "old0BankAccount.cs",
+              "DocumentMoniker": "D:\\Career180\\AssignmentDay10\\BankModel\\old0BankAccount.cs",
+              "RelativeDocumentMoniker": "BankModel\\old0BankAccount.cs",
+              "ToolTip": "D:\\Career180\\AssignmentDay10\\BankModel\\old0BankAccount.cs",
+              "RelativeToolTip": "BankModel\\old0BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:03:36.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BankAjent.cs",
+              "DocumentMoniker": "D:\\Career180\\AssignmentDay10\\BankModel\\BankAjent.cs",
+              "RelativeDocumentMoniker": "BankModel\\BankAjent.cs",
+              "ToolTip": "D:\\Career180\\AssignmentDay10\\BankModel\\BankAjent.cs",
+              "RelativeToolTip": "BankModel\\BankAjent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:33:00.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
