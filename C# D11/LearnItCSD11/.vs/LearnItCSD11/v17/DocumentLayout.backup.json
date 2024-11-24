@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\engmt\\source\\repos\\LearnItCSD11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F7C6D7-3FEA-4657-BCB5-086400508265}|ADOConnectedMode\\ADOConnectedMode.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd11\\adoconnectedmode\\frmupdateanddelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F7C6D7-3FEA-4657-BCB5-086400508265}|ADOConnectedMode\\ADOConnectedMode.csproj|solutionrelative:adoconnectedmode\\frmupdateanddelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F7C6D7-3FEA-4657-BCB5-086400508265}|ADOConnectedMode\\ADOConnectedMode.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd11\\adoconnectedmode\\frmupdateanddelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8F7C6D7-3FEA-4657-BCB5-086400508265}|ADOConnectedMode\\ADOConnectedMode.csproj|solutionrelative:adoconnectedmode\\frmupdateanddelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F7C6D7-3FEA-4657-BCB5-086400508265}|ADOConnectedMode\\ADOConnectedMode.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd11\\adoconnectedmode\\frminsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F7C6D7-3FEA-4657-BCB5-086400508265}|ADOConnectedMode\\ADOConnectedMode.csproj|solutionrelative:adoconnectedmode\\frminsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F7C6D7-3FEA-4657-BCB5-086400508265}|ADOConnectedMode\\ADOConnectedMode.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd11\\adoconnectedmode\\frminsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8F7C6D7-3FEA-4657-BCB5-086400508265}|ADOConnectedMode\\ADOConnectedMode.csproj|solutionrelative:adoconnectedmode\\frminsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F7C6D7-3FEA-4657-BCB5-086400508265}|ADOConnectedMode\\ADOConnectedMode.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd11\\adoconnectedmode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F7C6D7-3FEA-4657-BCB5-086400508265}|ADOConnectedMode\\ADOConnectedMode.csproj|solutionrelative:adoconnectedmode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmUpdateAndDelete.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD11\\ADOConnectedMode\\frmUpdateAndDelete.cs",
+              "RelativeDocumentMoniker": "ADOConnectedMode\\frmUpdateAndDelete.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD11\\ADOConnectedMode\\frmUpdateAndDelete.cs",
+              "RelativeToolTip": "ADOConnectedMode\\frmUpdateAndDelete.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAgwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:33:18.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmUpdateAndDelete.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD11\\ADOConnectedMode\\frmUpdateAndDelete.cs",
+              "RelativeDocumentMoniker": "ADOConnectedMode\\frmUpdateAndDelete.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD11\\ADOConnectedMode\\frmUpdateAndDelete.cs [Design]",
+              "RelativeToolTip": "ADOConnectedMode\\frmUpdateAndDelete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:28:41.834Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmInsert.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD11\\ADOConnectedMode\\frmInsert.cs",
+              "RelativeDocumentMoniker": "ADOConnectedMode\\frmInsert.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD11\\ADOConnectedMode\\frmInsert.cs",
+              "RelativeToolTip": "ADOConnectedMode\\frmInsert.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA6wBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:19:55.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD11\\ADOConnectedMode\\Program.cs",
+              "RelativeDocumentMoniker": "ADOConnectedMode\\Program.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD11\\ADOConnectedMode\\Program.cs",
+              "RelativeToolTip": "ADOConnectedMode\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA+wA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:14:20.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmInsert.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD11\\ADOConnectedMode\\frmInsert.cs",
+              "RelativeDocumentMoniker": "ADOConnectedMode\\frmInsert.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD11\\ADOConnectedMode\\frmInsert.cs [Design]",
+              "RelativeToolTip": "ADOConnectedMode\\frmInsert.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T18:14:16.594Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
