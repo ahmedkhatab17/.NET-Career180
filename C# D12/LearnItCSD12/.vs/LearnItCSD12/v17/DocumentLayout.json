@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\engmt\\source\\repos\\LearnItCSD12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95E2367F-9458-437D-9315-CA62113CC75E}|Company.BusinessLayer\\Company.BusinessLayer.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd12\\company.businesslayer\\authorbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E2367F-9458-437D-9315-CA62113CC75E}|Company.BusinessLayer\\Company.BusinessLayer.csproj|solutionrelative:company.businesslayer\\authorbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A7E3C7-3144-4F74-A5C4-A8BD4491AD34}|Company.PresentationLayer\\Company.PresentationLayer.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd12\\company.presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A7E3C7-3144-4F74-A5C4-A8BD4491AD34}|Company.PresentationLayer\\Company.PresentationLayer.csproj|solutionrelative:company.presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A7E3C7-3144-4F74-A5C4-A8BD4491AD34}|Company.PresentationLayer\\Company.PresentationLayer.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd12\\company.presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7A7E3C7-3144-4F74-A5C4-A8BD4491AD34}|Company.PresentationLayer\\Company.PresentationLayer.csproj|solutionrelative:company.presentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95E2367F-9458-437D-9315-CA62113CC75E}|Company.BusinessLayer\\Company.BusinessLayer.csproj|c:\\users\\engmt\\source\\repos\\learnitcsd12\\company.businesslayer\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E2367F-9458-437D-9315-CA62113CC75E}|Company.BusinessLayer\\Company.BusinessLayer.csproj|solutionrelative:company.businesslayer\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD12\\Company.PresentationLayer\\Form1.cs",
+              "RelativeDocumentMoniker": "Company.PresentationLayer\\Form1.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD12\\Company.PresentationLayer\\Form1.cs",
+              "RelativeToolTip": "Company.PresentationLayer\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBCwEIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:44:22.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD12\\Company.PresentationLayer\\Form1.cs",
+              "RelativeDocumentMoniker": "Company.PresentationLayer\\Form1.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD12\\Company.PresentationLayer\\Form1.cs [Design]",
+              "RelativeToolTip": "Company.PresentationLayer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:36:06.717Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD12\\Company.BusinessLayer\\Author.cs",
+              "RelativeDocumentMoniker": "Company.BusinessLayer\\Author.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD12\\Company.BusinessLayer\\Author.cs",
+              "RelativeToolTip": "Company.BusinessLayer\\Author.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:19:27.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorBL.cs",
+              "DocumentMoniker": "C:\\Users\\engmt\\source\\repos\\LearnItCSD12\\Company.BusinessLayer\\AuthorBL.cs",
+              "RelativeDocumentMoniker": "Company.BusinessLayer\\AuthorBL.cs",
+              "ToolTip": "C:\\Users\\engmt\\source\\repos\\LearnItCSD12\\Company.BusinessLayer\\AuthorBL.cs",
+              "RelativeToolTip": "Company.BusinessLayer\\AuthorBL.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAHkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:16:42.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

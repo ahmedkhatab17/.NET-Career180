@@ -1,0 +1,13 @@
+C:\Users\engmt\source\repos\LearnItCSD12\Company.DBManager\bin\Debug\net8.0\Company.DBManager.dll.config
+C:\Users\engmt\source\repos\LearnItCSD12\Company.DBManager\bin\Debug\net8.0\Company.DBManager.deps.json
+C:\Users\engmt\source\repos\LearnItCSD12\Company.DBManager\bin\Debug\net8.0\Company.DBManager.dll
+C:\Users\engmt\source\repos\LearnItCSD12\Company.DBManager\bin\Debug\net8.0\Company.DBManager.pdb
+C:\Users\engmt\source\repos\LearnItCSD12\Company.DBManager\obj\Debug\net8.0\Company.DBManager.csproj.AssemblyReference.cache
+C:\Users\engmt\source\repos\LearnItCSD12\Company.DBManager\obj\Debug\net8.0\Company.DBManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engmt\source\repos\LearnItCSD12\Company.DBManager\obj\Debug\net8.0\Company.DBManager.AssemblyInfoInputs.cache
+C:\Users\engmt\source\repos\LearnItCSD12\Company.DBManager\obj\Debug\net8.0\Company.DBManager.AssemblyInfo.cs
+C:\Users\engmt\source\repos\LearnItCSD12\Company.DBManager\obj\Debug\net8.0\Company.DBManager.csproj.CoreCompileInputs.cache
+C:\Users\engmt\source\repos\LearnItCSD12\Company.DBManager\obj\Debug\net8.0\Company.DBManager.dll
+C:\Users\engmt\source\repos\LearnItCSD12\Company.DBManager\obj\Debug\net8.0\refint\Company.DBManager.dll
+C:\Users\engmt\source\repos\LearnItCSD12\Company.DBManager\obj\Debug\net8.0\Company.DBManager.pdb
+C:\Users\engmt\source\repos\LearnItCSD12\Company.DBManager\obj\Debug\net8.0\ref\Company.DBManager.dll
