@@ -18,4 +18,15 @@ insert into Student values('Marwan','m@s.s')
 
 select * from Student
 ---there may appear one identity column per table
----auto incremental column
+---auto incremental column        
+
+
+
+
+
+
+
+
+
+
+
