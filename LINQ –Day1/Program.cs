@@ -24,7 +24,7 @@ namespace LINQD1
         //}
     }
 
-    class calc
+    class calc  
     {
       //  public int sum (int n1 , int n2)
       //  {
