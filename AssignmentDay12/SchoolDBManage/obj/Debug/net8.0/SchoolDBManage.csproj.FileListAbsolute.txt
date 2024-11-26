@@ -1,0 +1,14 @@
+D:\Career180\AssignmentDay12\SchoolDBManage\bin\Debug\net8.0\SchoolDBManage.dll.config
+D:\Career180\AssignmentDay12\SchoolDBManage\bin\Debug\net8.0\SchoolDBManage.deps.json
+D:\Career180\AssignmentDay12\SchoolDBManage\bin\Debug\net8.0\SchoolDBManage.dll
+D:\Career180\AssignmentDay12\SchoolDBManage\bin\Debug\net8.0\SchoolDBManage.pdb
+D:\Career180\AssignmentDay12\SchoolDBManage\obj\Debug\net8.0\SchoolDBManage.csproj.AssemblyReference.cache
+D:\Career180\AssignmentDay12\SchoolDBManage\obj\Debug\net8.0\SchoolDBManage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career180\AssignmentDay12\SchoolDBManage\obj\Debug\net8.0\SchoolDBManage.AssemblyInfoInputs.cache
+D:\Career180\AssignmentDay12\SchoolDBManage\obj\Debug\net8.0\SchoolDBManage.AssemblyInfo.cs
+D:\Career180\AssignmentDay12\SchoolDBManage\obj\Debug\net8.0\SchoolDBManage.csproj.CoreCompileInputs.cache
+D:\Career180\AssignmentDay12\SchoolDBManage\obj\Debug\net8.0\SchoolDBManage.sourcelink.json
+D:\Career180\AssignmentDay12\SchoolDBManage\obj\Debug\net8.0\SchoolDBManage.dll
+D:\Career180\AssignmentDay12\SchoolDBManage\obj\Debug\net8.0\refint\SchoolDBManage.dll
+D:\Career180\AssignmentDay12\SchoolDBManage\obj\Debug\net8.0\SchoolDBManage.pdb
+D:\Career180\AssignmentDay12\SchoolDBManage\obj\Debug\net8.0\ref\SchoolDBManage.dll

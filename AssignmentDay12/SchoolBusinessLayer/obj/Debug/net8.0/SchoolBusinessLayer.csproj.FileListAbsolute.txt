@@ -1,0 +1,17 @@
+D:\Career180\AssignmentDay12\SchoolBusinessLayer\bin\Debug\net8.0\SchoolBusinessLayer.deps.json
+D:\Career180\AssignmentDay12\SchoolBusinessLayer\bin\Debug\net8.0\SchoolBusinessLayer.dll
+D:\Career180\AssignmentDay12\SchoolBusinessLayer\bin\Debug\net8.0\SchoolBusinessLayer.pdb
+D:\Career180\AssignmentDay12\SchoolBusinessLayer\bin\Debug\net8.0\SchoolDBManage.dll
+D:\Career180\AssignmentDay12\SchoolBusinessLayer\bin\Debug\net8.0\SchoolDBManage.pdb
+D:\Career180\AssignmentDay12\SchoolBusinessLayer\bin\Debug\net8.0\SchoolDBManage.dll.config
+D:\Career180\AssignmentDay12\SchoolBusinessLayer\obj\Debug\net8.0\SchoolBusinessLayer.csproj.AssemblyReference.cache
+D:\Career180\AssignmentDay12\SchoolBusinessLayer\obj\Debug\net8.0\SchoolBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career180\AssignmentDay12\SchoolBusinessLayer\obj\Debug\net8.0\SchoolBusinessLayer.AssemblyInfoInputs.cache
+D:\Career180\AssignmentDay12\SchoolBusinessLayer\obj\Debug\net8.0\SchoolBusinessLayer.AssemblyInfo.cs
+D:\Career180\AssignmentDay12\SchoolBusinessLayer\obj\Debug\net8.0\SchoolBusinessLayer.csproj.CoreCompileInputs.cache
+D:\Career180\AssignmentDay12\SchoolBusinessLayer\obj\Debug\net8.0\SchoolBusinessLayer.sourcelink.json
+D:\Career180\AssignmentDay12\SchoolBusinessLayer\obj\Debug\net8.0\SchoolBu.82CBFF60.Up2Date
+D:\Career180\AssignmentDay12\SchoolBusinessLayer\obj\Debug\net8.0\SchoolBusinessLayer.dll
+D:\Career180\AssignmentDay12\SchoolBusinessLayer\obj\Debug\net8.0\refint\SchoolBusinessLayer.dll
+D:\Career180\AssignmentDay12\SchoolBusinessLayer\obj\Debug\net8.0\SchoolBusinessLayer.pdb
+D:\Career180\AssignmentDay12\SchoolBusinessLayer\obj\Debug\net8.0\ref\SchoolBusinessLayer.dll

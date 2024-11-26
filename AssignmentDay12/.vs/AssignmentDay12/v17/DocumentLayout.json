@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "D:\\Career180\\AssignmentDay12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B684BA13-D24E-4135-9944-160320AFDE59}|SchoolBusinessLayer\\SchoolBusinessLayer.csproj|d:\\career180\\assignmentday12\\schoolbusinesslayer\\studentbusinesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B684BA13-D24E-4135-9944-160320AFDE59}|SchoolBusinessLayer\\SchoolBusinessLayer.csproj|solutionrelative:schoolbusinesslayer\\studentbusinesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85F945B2-3713-4CF7-B331-6EDA7388A775}|SchoolPresentationLayer\\SchoolPresentationLayer.csproj|d:\\career180\\assignmentday12\\schoolpresentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F945B2-3713-4CF7-B331-6EDA7388A775}|SchoolPresentationLayer\\SchoolPresentationLayer.csproj|solutionrelative:schoolpresentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B684BA13-D24E-4135-9944-160320AFDE59}|SchoolBusinessLayer\\SchoolBusinessLayer.csproj|d:\\career180\\assignmentday12\\schoolbusinesslayer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B684BA13-D24E-4135-9944-160320AFDE59}|SchoolBusinessLayer\\SchoolBusinessLayer.csproj|solutionrelative:schoolbusinesslayer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93AFB5A1-B031-4ED8-872A-2BE97E176F02}|SchoolDBManage\\SchoolDBManage.csproj|d:\\career180\\assignmentday12\\schooldbmanage\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93AFB5A1-B031-4ED8-872A-2BE97E176F02}|SchoolDBManage\\SchoolDBManage.csproj|solutionrelative:schooldbmanage\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93AFB5A1-B031-4ED8-872A-2BE97E176F02}|SchoolDBManage\\SchoolDBManage.csproj|d:\\career180\\assignmentday12\\schooldbmanage\\schooldbmanage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{93AFB5A1-B031-4ED8-872A-2BE97E176F02}|SchoolDBManage\\SchoolDBManage.csproj|solutionrelative:schooldbmanage\\schooldbmanage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93AFB5A1-B031-4ED8-872A-2BE97E176F02}|SchoolDBManage\\SchoolDBManage.csproj|d:\\career180\\assignmentday12\\schooldbmanage\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{93AFB5A1-B031-4ED8-872A-2BE97E176F02}|SchoolDBManage\\SchoolDBManage.csproj|solutionrelative:schooldbmanage\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{85F945B2-3713-4CF7-B331-6EDA7388A775}|SchoolPresentationLayer\\SchoolPresentationLayer.csproj|d:\\career180\\assignmentday12\\schoolpresentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85F945B2-3713-4CF7-B331-6EDA7388A775}|SchoolPresentationLayer\\SchoolPresentationLayer.csproj|solutionrelative:schoolpresentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SchoolDBManage",
-              "DocumentMoniker": "D:\\Career180\\AssignmentDay12\\SchoolDBManage\\SchoolDBManage.csproj",
-              "RelativeDocumentMoniker": "SchoolDBManage\\SchoolDBManage.csproj",
-              "ToolTip": "D:\\Career180\\AssignmentDay12\\SchoolDBManage\\SchoolDBManage.csproj",
-              "RelativeToolTip": "SchoolDBManage\\SchoolDBManage.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-26T21:50:29.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StudentBusinessLayer.cs",
-              "DocumentMoniker": "D:\\Career180\\AssignmentDay12\\SchoolBusinessLayer\\StudentBusinessLayer.cs",
-              "RelativeDocumentMoniker": "SchoolBusinessLayer\\StudentBusinessLayer.cs",
-              "ToolTip": "D:\\Career180\\AssignmentDay12\\SchoolBusinessLayer\\StudentBusinessLayer.cs",
-              "RelativeToolTip": "SchoolBusinessLayer\\StudentBusinessLayer.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAA6AAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Career180\\AssignmentDay12\\SchoolPresentationLayer\\Form1.cs",
+              "RelativeDocumentMoniker": "SchoolPresentationLayer\\Form1.cs",
+              "ToolTip": "D:\\Career180\\AssignmentDay12\\SchoolPresentationLayer\\Form1.cs",
+              "RelativeToolTip": "SchoolPresentationLayer\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T21:45:06.275Z",
+              "WhenOpened": "2024-11-26T22:19:26.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Career180\\AssignmentDay12\\SchoolBusinessLayer\\Student.cs",
-              "RelativeDocumentMoniker": "SchoolBusinessLayer\\Student.cs",
-              "ToolTip": "D:\\Career180\\AssignmentDay12\\SchoolBusinessLayer\\Student.cs",
-              "RelativeToolTip": "SchoolBusinessLayer\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Career180\\AssignmentDay12\\SchoolPresentationLayer\\Form1.cs",
+              "RelativeDocumentMoniker": "SchoolPresentationLayer\\Form1.cs",
+              "ToolTip": "D:\\Career180\\AssignmentDay12\\SchoolPresentationLayer\\Form1.cs [Design]",
+              "RelativeToolTip": "SchoolPresentationLayer\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T21:42:29.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.config",
-              "DocumentMoniker": "D:\\Career180\\AssignmentDay12\\SchoolDBManage\\App.config",
-              "RelativeDocumentMoniker": "SchoolDBManage\\App.config",
-              "ToolTip": "D:\\Career180\\AssignmentDay12\\SchoolDBManage\\App.config",
-              "RelativeToolTip": "SchoolDBManage\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-26T21:35:08.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataAccessLayer.cs",
-              "DocumentMoniker": "D:\\Career180\\AssignmentDay12\\SchoolDBManage\\DataAccessLayer.cs",
-              "RelativeDocumentMoniker": "SchoolDBManage\\DataAccessLayer.cs",
-              "ToolTip": "D:\\Career180\\AssignmentDay12\\SchoolDBManage\\DataAccessLayer.cs",
-              "RelativeToolTip": "SchoolDBManage\\DataAccessLayer.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAkwC8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T21:25:58.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T22:10:32.428Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

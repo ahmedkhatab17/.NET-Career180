@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Career180\\AssignmentDay12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31A22006-7998-4454-B8BB-16BF8EA23AFF}|AssignmentDay12\\AssignmentDay12.csproj|d:\\career180\\assignmentday12\\assignmentday12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31A22006-7998-4454-B8BB-16BF8EA23AFF}|AssignmentDay12\\AssignmentDay12.csproj|solutionrelative:assignmentday12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85F945B2-3713-4CF7-B331-6EDA7388A775}|SchoolPresentationLayer\\SchoolPresentationLayer.csproj|d:\\career180\\assignmentday12\\schoolpresentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F945B2-3713-4CF7-B331-6EDA7388A775}|SchoolPresentationLayer\\SchoolPresentationLayer.csproj|solutionrelative:schoolpresentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31A22006-7998-4454-B8BB-16BF8EA23AFF}|AssignmentDay12\\AssignmentDay12.csproj|D:\\Career180\\AssignmentDay12\\assignmentday12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{31A22006-7998-4454-B8BB-16BF8EA23AFF}|AssignmentDay12\\AssignmentDay12.csproj|solutionrelative:assignmentday12\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{85F945B2-3713-4CF7-B331-6EDA7388A775}|SchoolPresentationLayer\\SchoolPresentationLayer.csproj|d:\\career180\\assignmentday12\\schoolpresentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85F945B2-3713-4CF7-B331-6EDA7388A775}|SchoolPresentationLayer\\SchoolPresentationLayer.csproj|solutionrelative:schoolpresentationlayer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,25 +24,25 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Career180\\AssignmentDay12\\AssignmentDay12\\Form1.cs",
-              "RelativeDocumentMoniker": "AssignmentDay12\\Form1.cs",
-              "ToolTip": "D:\\Career180\\AssignmentDay12\\AssignmentDay12\\Form1.cs*",
-              "RelativeToolTip": "AssignmentDay12\\Form1.cs*",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAkwE0AAAAxAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Career180\\AssignmentDay12\\SchoolPresentationLayer\\Form1.cs",
+              "RelativeDocumentMoniker": "SchoolPresentationLayer\\Form1.cs",
+              "ToolTip": "D:\\Career180\\AssignmentDay12\\SchoolPresentationLayer\\Form1.cs*",
+              "RelativeToolTip": "SchoolPresentationLayer\\Form1.cs*",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwvz8AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:06:02.671Z",
+              "WhenOpened": "2024-11-26T22:19:26.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Career180\\AssignmentDay12\\AssignmentDay12\\Form1.cs",
-              "RelativeDocumentMoniker": "AssignmentDay12\\Form1.cs",
-              "ToolTip": "D:\\Career180\\AssignmentDay12\\AssignmentDay12\\Form1.cs [Design]*",
-              "RelativeToolTip": "AssignmentDay12\\Form1.cs [Design]*",
+              "DocumentMoniker": "D:\\Career180\\AssignmentDay12\\SchoolPresentationLayer\\Form1.cs",
+              "RelativeDocumentMoniker": "SchoolPresentationLayer\\Form1.cs",
+              "ToolTip": "D:\\Career180\\AssignmentDay12\\SchoolPresentationLayer\\Form1.cs [Design]*",
+              "RelativeToolTip": "SchoolPresentationLayer\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T12:00:54.015Z",
+              "WhenOpened": "2024-11-26T22:10:32.428Z",
               "EditorCaption": " [Design]"
             }
           ]

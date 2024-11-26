@@ -28,7 +28,7 @@ namespace SchoolDBManage
         public static int ExecuteNonQuery(string query, SqlParameter[] parameters)
         {
             int affected;
-            SqlConnection con = new SqlConnection(System.Configuration.ConfigurationManager.ConnectionStrings["pubs"].ConnectionString);
+            SqlConnection con = new SqlConnection(System.Configuration.ConfigurationManager.ConnectionStrings["ITI"].ConnectionString);
             SqlCommand command = new SqlCommand(query, con);
             command.Parameters.AddRange(parameters);
 
