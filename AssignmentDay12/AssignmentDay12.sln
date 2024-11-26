@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentDay12", "AssignmentDay12\AssignmentDay12.csproj", "{31A22006-7998-4454-B8BB-16BF8EA23AFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolDBManage", "SchoolDBManage\SchoolDBManage.csproj", "{93AFB5A1-B031-4ED8-872A-2BE97E176F02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolBusinessLayer", "SchoolBusinessLayer\SchoolBusinessLayer.csproj", "{B684BA13-D24E-4135-9944-160320AFDE59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31A22006-7998-4454-B8BB-16BF8EA23AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A22006-7998-4454-B8BB-16BF8EA23AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A22006-7998-4454-B8BB-16BF8EA23AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A22006-7998-4454-B8BB-16BF8EA23AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93AFB5A1-B031-4ED8-872A-2BE97E176F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93AFB5A1-B031-4ED8-872A-2BE97E176F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93AFB5A1-B031-4ED8-872A-2BE97E176F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93AFB5A1-B031-4ED8-872A-2BE97E176F02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B684BA13-D24E-4135-9944-160320AFDE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B684BA13-D24E-4135-9944-160320AFDE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B684BA13-D24E-4135-9944-160320AFDE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B684BA13-D24E-4135-9944-160320AFDE59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
