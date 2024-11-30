@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Career180\\EFDay2 Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A025196-FF94-48F4-A884-D020F6B31B58}|CodeFirst\\CodeFirst.csproj|d:\\career180\\efday2 assignment\\codefirst\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A025196-FF94-48F4-A884-D020F6B31B58}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A025196-FF94-48F4-A884-D020F6B31B58}|CodeFirst\\CodeFirst.csproj|d:\\career180\\efday2 assignment\\codefirst\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A025196-FF94-48F4-A884-D020F6B31B58}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A025196-FF94-48F4-A884-D020F6B31B58}|CodeFirst\\CodeFirst.csproj|d:\\career180\\efday2 assignment\\codefirst\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A025196-FF94-48F4-A884-D020F6B31B58}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A025196-FF94-48F4-A884-D020F6B31B58}|CodeFirst\\CodeFirst.csproj|d:\\career180\\efday2 assignment\\codefirst\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A025196-FF94-48F4-A884-D020F6B31B58}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A025196-FF94-48F4-A884-D020F6B31B58}|CodeFirst\\CodeFirst.csproj|d:\\career180\\efday2 assignment\\codefirst\\models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A025196-FF94-48F4-A884-D020F6B31B58}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A025196-FF94-48F4-A884-D020F6B31B58}|CodeFirst\\CodeFirst.csproj|d:\\career180\\efday2 assignment\\codefirst\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A025196-FF94-48F4-A884-D020F6B31B58}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Career180\\EFDay2 Assignment\\CodeFirst\\Form1.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Form1.cs",
+              "ToolTip": "D:\\Career180\\EFDay2 Assignment\\CodeFirst\\Form1.cs",
+              "RelativeToolTip": "CodeFirst\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:37:10.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "D:\\Career180\\EFDay2 Assignment\\CodeFirst\\Models\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\CompanyContext.cs",
+              "ToolTip": "D:\\Career180\\EFDay2 Assignment\\CodeFirst\\Models\\CompanyContext.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\CompanyContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:34:54.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "News.cs",
+              "DocumentMoniker": "D:\\Career180\\EFDay2 Assignment\\CodeFirst\\Models\\News.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\News.cs",
+              "ToolTip": "D:\\Career180\\EFDay2 Assignment\\CodeFirst\\Models\\News.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\News.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:30:40.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\Career180\\EFDay2 Assignment\\CodeFirst\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\Author.cs",
+              "ToolTip": "D:\\Career180\\EFDay2 Assignment\\CodeFirst\\Models\\Author.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\Author.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:05:45.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Catalog.cs",
+              "DocumentMoniker": "D:\\Career180\\EFDay2 Assignment\\CodeFirst\\Models\\Catalog.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\Catalog.cs",
+              "ToolTip": "D:\\Career180\\EFDay2 Assignment\\CodeFirst\\Models\\Catalog.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\Catalog.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:31:56.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Career180\\EFDay2 Assignment\\CodeFirst\\Form1.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Form1.cs",
+              "ToolTip": "D:\\Career180\\EFDay2 Assignment\\CodeFirst\\Form1.cs [Design]",
+              "RelativeToolTip": "CodeFirst\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T13:29:26.618Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
