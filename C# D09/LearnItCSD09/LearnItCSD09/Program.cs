@@ -156,17 +156,17 @@
             #endregion
 
             #region Filtration With Delegate
-            //MyDelegate del1 = FilterPer.PerDeptId;
-            ////del1 = r => r.Name.Contains("m");
-            //del1 = www => www.Name.Contains("m") && www.DeptId == 20;
-            //var filteredEmps = Filtration.FilterPerDelegate(employees,del1);
+            MyDelegate del1 = FilterPer.PerDeptId;
+            //del1 = r => r.Name.Contains("m");
+            del1 = www => www.Name.Contains("m") && www.DeptId == 20;
+            var filteredEmps = Filtration.FilterPerDelegate(employees, del1);
 
-            //filteredEmps = Filtration.FilterPerDelegate
-            //    (employees, RD => RD.DeptId == 10);
-            //foreach (var employee in filteredEmps) 
-            //{
-            //    Console.WriteLine(employee);
-            //}
+            filteredEmps = Filtration.FilterPerDelegate
+                (employees, RD => RD.DeptId == 10);
+            foreach (var employee in filteredEmps)
+            {
+                Console.WriteLine(employee);
+            }
             #endregion
 
             #region Built-In Delegates
@@ -231,7 +231,7 @@
             ///filtration with delegate
             ///
             ///try built in delegates func,predicate,action
-            
+
             #endregion
         }
     }

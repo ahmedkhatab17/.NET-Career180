@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\engmt\\.nuget\\packages\\": {}
+    "C:\\Users\\ahmed\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\engmt\\source\\repos\\LearnItCSD09\\LearnItCSD09\\LearnItCSD09.csproj",
+      "projectUniqueName": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\C# D09\\LearnItCSD09\\LearnItCSD09\\LearnItCSD09.csproj",
       "projectName": "LearnItCSD09",
-      "projectPath": "C:\\Users\\engmt\\source\\repos\\LearnItCSD09\\LearnItCSD09\\LearnItCSD09.csproj",
-      "packagesPath": "C:\\Users\\engmt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\engmt\\source\\repos\\LearnItCSD09\\LearnItCSD09\\obj\\",
+      "projectPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\C# D09\\LearnItCSD09\\LearnItCSD09\\LearnItCSD09.csproj",
+      "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ahmed\\OneDrive\\Desktop\\Career180\\C# D09\\LearnItCSD09\\LearnItCSD09\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\engmt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
