@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{EF08BCDD-971E-41C9-98E1-3E689BE88D7F}|Lab2\\Lab2.csproj|solutionrelative:lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF08BCDD-971E-41C9-98E1-3E689BE88D7F}|Lab2\\Lab2.csproj|D:\\Career180\\EFDay1 Assignment\\Lab2\\lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EF08BCDD-971E-41C9-98E1-3E689BE88D7F}|Lab2\\Lab2.csproj|solutionrelative:lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF08BCDD-971E-41C9-98E1-3E689BE88D7F}|Lab2\\Lab2.csproj|d:\\career180\\efday1 assignment\\lab2\\lab2\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF08BCDD-971E-41C9-98E1-3E689BE88D7F}|Lab2\\Lab2.csproj|solutionrelative:lab2\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF08BCDD-971E-41C9-98E1-3E689BE88D7F}|Lab2\\Lab2.csproj|D:\\Career180\\EFDay1 Assignment\\Lab2\\lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF08BCDD-971E-41C9-98E1-3E689BE88D7F}|Lab2\\Lab2.csproj|solutionrelative:lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF08BCDD-971E-41C9-98E1-3E689BE88D7F}|Lab2\\Lab2.csproj|d:\\career180\\efday1 assignment\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Career180\\EFDay1 Assignment\\Lab2\\Lab2\\Form1.cs",
               "RelativeDocumentMoniker": "Lab2\\Form1.cs",
@@ -48,22 +48,23 @@
               "RelativeDocumentMoniker": "Lab2\\Form1.cs",
               "ToolTip": "D:\\Career180\\EFDay1 Assignment\\Lab2\\Lab2\\Form1.cs*",
               "RelativeToolTip": "Lab2\\Form1.cs*",
-              "ViewState": "AgIAACkAAAAAAAAAAAAqwEEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwGgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T22:08:44.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CompanyContext.cs",
               "DocumentMoniker": "D:\\Career180\\EFDay1 Assignment\\Lab2\\Lab2\\Models\\CompanyContext.cs",
               "RelativeDocumentMoniker": "Lab2\\Models\\CompanyContext.cs",
               "ToolTip": "D:\\Career180\\EFDay1 Assignment\\Lab2\\Lab2\\Models\\CompanyContext.cs",
               "RelativeToolTip": "Lab2\\Models\\CompanyContext.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAACFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAACFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T22:22:30.897Z"
+              "WhenOpened": "2024-11-25T22:22:30.897Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

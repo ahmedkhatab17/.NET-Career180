@@ -46,6 +46,8 @@ namespace Lab2
         //    txtFName.Text = txtLName.Text = txtSalary.Text = "";
         //    MessageBox.Show("sucessfuly added");
         //}
+
+
         private void btnAdd_Click(object sender, EventArgs e)
         {
             Employee employee = new Employee()
@@ -100,7 +102,7 @@ namespace Lab2
             dGVEmployee.DataSource = db.Employees.Include(e => e.Dept)
                 .Select(e => new { e.SSN, e.FName, e.LName, e.Salary, deptid = e.Dept.DeptId, deptname = e.Dept.DeptName })
                 .ToList();
-            txtFName.Text = txtLName.Text = txtSalary.Text = "";
+            //txtFName.Text = txtLName.Text = txtSalary.Text = "";
             MessageBox.Show("Successfully Updated");
 
             btnDelete.Visible = false;
@@ -119,7 +121,7 @@ namespace Lab2
             dGVEmployee.DataSource = db.Employees.Include(e => e.Dept)
                 .Select(e => new { e.SSN, e.FName, e.LName, e.Salary, deptid = e.Dept.DeptId, deptname = e.Dept.DeptName })
                 .ToList();
-            txtFName.Text = txtLName.Text = txtSalary.Text = "";
+            //txtFName.Text = txtLName.Text = txtSalary.Text = "";
             MessageBox.Show("Successfully Deleted");
 
             btnDelete.Visible = false;
