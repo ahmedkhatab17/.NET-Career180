@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "M1xbbu/RLm0vyFQwLQI80E7bivdQcc+7cWGefFWpuQM=",
+  "Source": "Day2",
+  "BasePath": "_content/Day2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Day2\\wwwroot",
+      "Source": "Day2",
+      "ContentRoot": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day2\\Day2\\Day2\\wwwroot\\",
+      "BasePath": "_content/Day2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day2\\Day2\\Day2\\wwwroot\\home.html",
+      "SourceId": "Day2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day2\\Day2\\Day2\\wwwroot\\",
+      "BasePath": "_content/Day2",
+      "RelativePath": "home.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\home.html"
+    }
+  ]
+}

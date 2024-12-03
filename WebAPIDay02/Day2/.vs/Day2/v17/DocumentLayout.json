@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day2\\Day2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38443BEF-ACF3-4E8E-9A36-DDF86AB1BD3B}|Day2\\Day2.csproj|c:\\users\\melshafie\\desktop\\alexg1\\webapi\\day2\\day2\\day2\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38443BEF-ACF3-4E8E-9A36-DDF86AB1BD3B}|Day2\\Day2.csproj|solutionrelative:day2\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38443BEF-ACF3-4E8E-9A36-DDF86AB1BD3B}|Day2\\Day2.csproj|c:\\users\\melshafie\\desktop\\alexg1\\webapi\\day2\\day2\\day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38443BEF-ACF3-4E8E-9A36-DDF86AB1BD3B}|Day2\\Day2.csproj|solutionrelative:day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38443BEF-ACF3-4E8E-9A36-DDF86AB1BD3B}|Day2\\Day2.csproj|c:\\users\\melshafie\\desktop\\alexg1\\webapi\\day2\\day2\\day2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38443BEF-ACF3-4E8E-9A36-DDF86AB1BD3B}|Day2\\Day2.csproj|solutionrelative:day2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38443BEF-ACF3-4E8E-9A36-DDF86AB1BD3B}|Day2\\Day2.csproj|c:\\users\\melshafie\\desktop\\alexg1\\webapi\\day2\\day2\\day2\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38443BEF-ACF3-4E8E-9A36-DDF86AB1BD3B}|Day2\\Day2.csproj|solutionrelative:day2\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38443BEF-ACF3-4E8E-9A36-DDF86AB1BD3B}|Day2\\Day2.csproj|c:\\users\\melshafie\\desktop\\alexg1\\webapi\\day2\\day2\\day2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38443BEF-ACF3-4E8E-9A36-DDF86AB1BD3B}|Day2\\Day2.csproj|solutionrelative:day2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day2\\Day2\\Day2\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Day2\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day2\\Day2\\Day2\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Day2\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T17:40:53.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "home.html",
+              "DocumentMoniker": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day2\\Day2\\Day2\\WWWroot\\home.html",
+              "RelativeDocumentMoniker": "Day2\\WWWroot\\home.html",
+              "ToolTip": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day2\\Day2\\Day2\\WWWroot\\home.html",
+              "RelativeToolTip": "Day2\\WWWroot\\home.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-03T16:58:44.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day2\\Day2\\Day2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Day2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day2\\Day2\\Day2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Day2\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T16:54:38.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day2\\Day2\\Day2\\Program.cs",
+              "RelativeDocumentMoniker": "Day2\\Program.cs",
+              "ToolTip": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day2\\Day2\\Day2\\Program.cs",
+              "RelativeToolTip": "Day2\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwBQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:48:26.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day2\\Day2\\Day2\\appsettings.json",
+              "RelativeDocumentMoniker": "Day2\\appsettings.json",
+              "ToolTip": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day2\\Day2\\Day2\\appsettings.json",
+              "RelativeToolTip": "Day2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T16:47:44.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
