@@ -1,0 +1,37 @@
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\bin\Debug\net8.0\appsettings.Development.json
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\bin\Debug\net8.0\appsettings.json
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\bin\Debug\net8.0\APIDay01 Lab.staticwebassets.endpoints.json
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\bin\Debug\net8.0\APIDay01 Lab.exe
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\bin\Debug\net8.0\APIDay01 Lab.deps.json
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\bin\Debug\net8.0\APIDay01 Lab.runtimeconfig.json
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\bin\Debug\net8.0\APIDay01 Lab.dll
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\bin\Debug\net8.0\APIDay01 Lab.pdb
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\APIDay01 Lab.csproj.AssemblyReference.cache
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\APIDay01 Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\APIDay01 Lab.AssemblyInfoInputs.cache
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\APIDay01 Lab.AssemblyInfo.cs
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\APIDay01 Lab.csproj.CoreCompileInputs.cache
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\APIDay01 Lab.MvcApplicationPartsAssemblyInfo.cs
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\APIDay01 Lab.MvcApplicationPartsAssemblyInfo.cache
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\APIDay01 Lab.sourcelink.json
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\scopedcss\bundle\APIDay01 Lab.styles.css
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\staticwebassets.build.json
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\staticwebassets.development.json
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\staticwebassets\msbuild.APIDay01 Lab.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\staticwebassets\msbuild.APIDay01 Lab.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\staticwebassets\msbuild.build.APIDay01 Lab.props
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIDay01 Lab.props
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIDay01 Lab.props
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\APIDay01.E57394E0.Up2Date
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\APIDay01 Lab.dll
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\refint\APIDay01 Lab.dll
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\APIDay01 Lab.pdb
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\APIDay01 Lab.genruntimeconfig.cache
+D:\Career180\WebAPIDay01 Assignment\APIDay01 Lab\APIDay01 Lab\obj\Debug\net8.0\ref\APIDay01 Lab.dll
