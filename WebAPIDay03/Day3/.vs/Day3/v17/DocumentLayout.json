@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day3\\Day3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2214C1C5-2FA3-416E-8A58-33DB79E4F05A}|Day3\\Day3.csproj|c:\\users\\melshafie\\desktop\\alexg1\\webapi\\day3\\day3\\day3\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2214C1C5-2FA3-416E-8A58-33DB79E4F05A}|Day3\\Day3.csproj|solutionrelative:day3\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2214C1C5-2FA3-416E-8A58-33DB79E4F05A}|Day3\\Day3.csproj|c:\\users\\melshafie\\desktop\\alexg1\\webapi\\day3\\day3\\day3\\dtos\\studentdto\\addstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2214C1C5-2FA3-416E-8A58-33DB79E4F05A}|Day3\\Day3.csproj|solutionrelative:day3\\dtos\\studentdto\\addstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2214C1C5-2FA3-416E-8A58-33DB79E4F05A}|Day3\\Day3.csproj|c:\\users\\melshafie\\desktop\\alexg1\\webapi\\day3\\day3\\day3\\dtos\\studentdto\\displaystudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2214C1C5-2FA3-416E-8A58-33DB79E4F05A}|Day3\\Day3.csproj|solutionrelative:day3\\dtos\\studentdto\\displaystudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2214C1C5-2FA3-416E-8A58-33DB79E4F05A}|Day3\\Day3.csproj|c:\\users\\melshafie\\desktop\\alexg1\\webapi\\day3\\day3\\day3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2214C1C5-2FA3-416E-8A58-33DB79E4F05A}|Day3\\Day3.csproj|solutionrelative:day3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2214C1C5-2FA3-416E-8A58-33DB79E4F05A}|Day3\\Day3.csproj|c:\\users\\melshafie\\desktop\\alexg1\\webapi\\day3\\day3\\day3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2214C1C5-2FA3-416E-8A58-33DB79E4F05A}|Day3\\Day3.csproj|solutionrelative:day3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day3\\Day3\\Day3\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Day3\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day3\\Day3\\Day3\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Day3\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvyQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:16:49.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddStudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day3\\Day3\\Day3\\DTOs\\StudentDTO\\AddStudentDTO.cs",
+              "RelativeDocumentMoniker": "Day3\\DTOs\\StudentDTO\\AddStudentDTO.cs",
+              "ToolTip": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day3\\Day3\\Day3\\DTOs\\StudentDTO\\AddStudentDTO.cs",
+              "RelativeToolTip": "Day3\\DTOs\\StudentDTO\\AddStudentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:13:49.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisplayStudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day3\\Day3\\Day3\\DTOs\\StudentDTO\\DisplayStudentDTO.cs",
+              "RelativeDocumentMoniker": "Day3\\DTOs\\StudentDTO\\DisplayStudentDTO.cs",
+              "ToolTip": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day3\\Day3\\Day3\\DTOs\\StudentDTO\\DisplayStudentDTO.cs",
+              "RelativeToolTip": "Day3\\DTOs\\StudentDTO\\DisplayStudentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:01:10.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day3\\Day3\\Day3\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Day3\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day3\\Day3\\Day3\\Models\\Student.cs",
+              "RelativeToolTip": "Day3\\Models\\Student.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvwoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:50:16.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day3\\Day3\\Day3\\Program.cs",
+              "RelativeDocumentMoniker": "Day3\\Program.cs",
+              "ToolTip": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day3\\Day3\\Day3\\Program.cs",
+              "RelativeToolTip": "Day3\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA0wBQAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:35:55.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
