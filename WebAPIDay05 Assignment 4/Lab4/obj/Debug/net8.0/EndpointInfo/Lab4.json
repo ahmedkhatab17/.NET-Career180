@@ -1,0 +1,130 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Lab4",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Employee/add": {
+      "post": {
+        "tags": [
+          "Employee"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "Name",
+                  "Password",
+                  "Username"
+                ],
+                "type": "object",
+                "properties": {
+                  "Name": {
+                    "type": "string"
+                  },
+                  "Username": {
+                    "minLength": 10,
+                    "type": "string"
+                  },
+                  "Salary": {
+                    "maximum": 20000,
+                    "minimum": 1200,
+                    "type": "number",
+                    "format": "double"
+                  },
+                  "Email": {
+                    "type": "string",
+                    "format": "email"
+                  },
+                  "Password": {
+                    "type": "string"
+                  },
+                  "ConfirmPassword": {
+                    "type": "string"
+                  },
+                  "Photo": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "photo": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "Name": {
+                  "style": "form"
+                },
+                "Username": {
+                  "style": "form"
+                },
+                "Salary": {
+                  "style": "form"
+                },
+                "Email": {
+                  "style": "form"
+                },
+                "Password": {
+                  "style": "form"
+                },
+                "ConfirmPassword": {
+                  "style": "form"
+                },
+                "Photo": {
+                  "style": "form"
+                },
+                "photo": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Employee/all": {
+      "get": {
+        "tags": [
+          "Employee"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Employee/{id}": {
+      "get": {
+        "tags": [
+          "Employee"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
