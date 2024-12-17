@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day6\\Day6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|c:\\users\\melshafie\\desktop\\alexg1\\webapi\\day6\\day6\\day6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|solutionrelative:day6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|c:\\users\\melshafie\\desktop\\alexg1\\webapi\\day6\\day6\\day6\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|solutionrelative:day6\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|c:\\users\\melshafie\\desktop\\alexg1\\webapi\\day6\\day6\\day6\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|solutionrelative:day6\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|c:\\users\\melshafie\\desktop\\alexg1\\webapi\\day6\\day6\\day6\\dtos\\employeedto\\displayemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|solutionrelative:day6\\dtos\\employeedto\\displayemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|c:\\users\\melshafie\\desktop\\alexg1\\webapi\\day6\\day6\\day6\\dtos\\employeedto\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|solutionrelative:day6\\dtos\\employeedto\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MElshafie\\AppData\\Local\\Temp\\.vsdbgsrc\\13e6845ed44533d0f233122ea61b7acf0b63affb5fb1491b2d4c04155417c33e\\ResourceInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|c:\\users\\melshafie\\desktop\\alexg1\\webapi\\day6\\day6\\day6\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|solutionrelative:day6\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day6\\Day6\\Day6\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Day6\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day6\\Day6\\Day6\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Day6\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:29:27.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DisplayemployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day6\\Day6\\Day6\\DTOs\\EmployeeDTO\\DisplayemployeeDTO.cs",
+              "RelativeDocumentMoniker": "Day6\\DTOs\\EmployeeDTO\\DisplayemployeeDTO.cs",
+              "ToolTip": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day6\\Day6\\Day6\\DTOs\\EmployeeDTO\\DisplayemployeeDTO.cs",
+              "RelativeToolTip": "Day6\\DTOs\\EmployeeDTO\\DisplayemployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:21:24.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "employeesController.cs",
+              "DocumentMoniker": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day6\\Day6\\Day6\\Controllers\\employeesController.cs",
+              "RelativeDocumentMoniker": "Day6\\Controllers\\employeesController.cs",
+              "ToolTip": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day6\\Day6\\Day6\\Controllers\\employeesController.cs",
+              "RelativeToolTip": "Day6\\Controllers\\employeesController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA3wA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:19:37.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResourceInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\MElshafie\\AppData\\Local\\Temp\\.vsdbgsrc\\13e6845ed44533d0f233122ea61b7acf0b63affb5fb1491b2d4c04155417c33e\\ResourceInvoker.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\13e6845ed44533d0f233122ea61b7acf0b63affb5fb1491b2d4c04155417c33e\\ResourceInvoker.cs",
+              "ToolTip": "C:\\Users\\MElshafie\\AppData\\Local\\Temp\\.vsdbgsrc\\13e6845ed44533d0f233122ea61b7acf0b63affb5fb1491b2d4c04155417c33e\\ResourceInvoker.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\13e6845ed44533d0f233122ea61b7acf0b63affb5fb1491b2d4c04155417c33e\\ResourceInvoker.cs [Read Only]",
+              "ViewState": "AQIAAJwBAAAAAAAAAAAywKcBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:47:22.751Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day6\\Day6\\Day6\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Day6\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day6\\Day6\\Day6\\Models\\Employee.cs",
+              "RelativeToolTip": "Day6\\Models\\Employee.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIBBwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:20:27.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day6\\Day6\\Day6\\Program.cs",
+              "RelativeDocumentMoniker": "Day6\\Program.cs",
+              "ToolTip": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day6\\Day6\\Day6\\Program.cs",
+              "RelativeToolTip": "Day6\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA0wBQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:18:00.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "addemployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day6\\Day6\\Day6\\DTOs\\EmployeeDTO\\addemployeeDTO.cs",
+              "RelativeDocumentMoniker": "Day6\\DTOs\\EmployeeDTO\\addemployeeDTO.cs",
+              "ToolTip": "C:\\Users\\MElshafie\\Desktop\\AlexG1\\WEBAPI\\Day6\\Day6\\Day6\\DTOs\\EmployeeDTO\\addemployeeDTO.cs",
+              "RelativeToolTip": "Day6\\DTOs\\EmployeeDTO\\addemployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:38:33.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
