@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Career180\\WebAPIDay07 Assignment\\Day6UnitOFWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|d:\\career180\\webapiday07 assignment\\day6unitofwork\\day6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|solutionrelative:day6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|d:\\career180\\webapiday07 assignment\\day6unitofwork\\day6\\mappingconfigs\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|solutionrelative:day6\\mappingconfigs\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|d:\\career180\\webapiday07 assignment\\day6unitofwork\\day6\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|solutionrelative:day6\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|d:\\career180\\webapiday07 assignment\\day6unitofwork\\day6\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|solutionrelative:day6\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|d:\\career180\\webapiday07 assignment\\day6unitofwork\\day6\\repository\\oldclass\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|solutionrelative:day6\\repository\\oldclass\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|d:\\career180\\webapiday07 assignment\\day6unitofwork\\day6\\controllers\\empdeptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|solutionrelative:day6\\controllers\\empdeptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|d:\\career180\\webapiday07 assignment\\day6unitofwork\\day6\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|solutionrelative:day6\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|d:\\career180\\webapiday07 assignment\\day6unitofwork\\day6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B050B8DE-1A1D-4FB4-82E7-BD0EE3B46172}|Day6\\Day6.csproj|solutionrelative:day6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "D:\\Career180\\WebAPIDay07 Assignment\\Day6UnitOFWork\\Day6\\MappingConfigs\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "Day6\\MappingConfigs\\MappingConfig.cs",
+              "ToolTip": "D:\\Career180\\WebAPIDay07 Assignment\\Day6UnitOFWork\\Day6\\MappingConfigs\\MappingConfig.cs",
+              "RelativeToolTip": "Day6\\MappingConfigs\\MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T16:19:26.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Career180\\WebAPIDay07 Assignment\\Day6UnitOFWork\\Day6\\appsettings.json",
+              "RelativeDocumentMoniker": "Day6\\appsettings.json",
+              "ToolTip": "D:\\Career180\\WebAPIDay07 Assignment\\Day6UnitOFWork\\Day6\\appsettings.json",
+              "RelativeToolTip": "Day6\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T13:34:11.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Career180\\WebAPIDay07 Assignment\\Day6UnitOFWork\\Day6\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Day6\\UnitOfWorks\\UnitOfWork.cs",
+              "ToolTip": "D:\\Career180\\WebAPIDay07 Assignment\\Day6UnitOFWork\\Day6\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeToolTip": "Day6\\UnitOfWorks\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:43:13.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "empDeptController.cs",
+              "DocumentMoniker": "D:\\Career180\\WebAPIDay07 Assignment\\Day6UnitOFWork\\Day6\\Controllers\\empDeptController.cs",
+              "RelativeDocumentMoniker": "Day6\\Controllers\\empDeptController.cs",
+              "ToolTip": "D:\\Career180\\WebAPIDay07 Assignment\\Day6UnitOFWork\\Day6\\Controllers\\empDeptController.cs",
+              "RelativeToolTip": "Day6\\Controllers\\empDeptController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:36:03.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\Career180\\WebAPIDay07 Assignment\\Day6UnitOFWork\\Day6\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Day6\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Career180\\WebAPIDay07 Assignment\\Day6UnitOFWork\\Day6\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Day6\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:02:08.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Career180\\WebAPIDay07 Assignment\\Day6UnitOFWork\\Day6\\Program.cs",
+              "RelativeDocumentMoniker": "Day6\\Program.cs",
+              "ToolTip": "D:\\Career180\\WebAPIDay07 Assignment\\Day6UnitOFWork\\Day6\\Program.cs",
+              "RelativeToolTip": "Day6\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAE0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:59:15.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "employeesController.cs",
+              "DocumentMoniker": "D:\\Career180\\WebAPIDay07 Assignment\\Day6UnitOFWork\\Day6\\Controllers\\employeesController.cs",
+              "RelativeDocumentMoniker": "Day6\\Controllers\\employeesController.cs",
+              "ToolTip": "D:\\Career180\\WebAPIDay07 Assignment\\Day6UnitOFWork\\Day6\\Controllers\\employeesController.cs",
+              "RelativeToolTip": "Day6\\Controllers\\employeesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:58:05.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Career180\\WebAPIDay07 Assignment\\Day6UnitOFWork\\Day6\\Repository\\OldClass\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Day6\\Repository\\OldClass\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Career180\\WebAPIDay07 Assignment\\Day6UnitOFWork\\Day6\\Repository\\OldClass\\EmployeeRepository.cs",
+              "RelativeToolTip": "Day6\\Repository\\OldClass\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:50:01.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
