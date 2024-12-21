@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Career180\\BookStoreAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1D4D0468-C415-4A52-B51E-6C6EB9EEA422}|BookStoreAPI\\BookStoreAPI.csproj|d:\\career180\\bookstoreapi\\bookstoreapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4D0468-C415-4A52-B51E-6C6EB9EEA422}|BookStoreAPI\\BookStoreAPI.csproj|solutionrelative:bookstoreapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4D0468-C415-4A52-B51E-6C6EB9EEA422}|BookStoreAPI\\BookStoreAPI.csproj|d:\\career180\\bookstoreapi\\bookstoreapi\\dtos\\booksdtos\\addbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D4D0468-C415-4A52-B51E-6C6EB9EEA422}|BookStoreAPI\\BookStoreAPI.csproj|solutionrelative:bookstoreapi\\dtos\\booksdtos\\addbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D4D0468-C415-4A52-B51E-6C6EB9EEA422}|BookStoreAPI\\BookStoreAPI.csproj|d:\\career180\\bookstoreapi\\bookstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D4D0468-C415-4A52-B51E-6C6EB9EEA422}|BookStoreAPI\\BookStoreAPI.csproj|solutionrelative:bookstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,19 +43,6 @@
       "RelativeMoniker": "D:0:0:{1D4D0468-C415-4A52-B51E-6C6EB9EEA422}|BookStoreAPI\\BookStoreAPI.csproj|solutionrelative:bookstoreapi\\dtos\\ordersdtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D4D0468-C415-4A52-B51E-6C6EB9EEA422}|BookStoreAPI\\BookStoreAPI.csproj|d:\\career180\\bookstoreapi\\bookstoreapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D4D0468-C415-4A52-B51E-6C6EB9EEA422}|BookStoreAPI\\BookStoreAPI.csproj|solutionrelative:bookstoreapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Compressed\\controller\\BooksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Compressed\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed\\Downloads\\Compressed\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1D4D0468-C415-4A52-B51E-6C6EB9EEA422}|BookStoreAPI\\BookStoreAPI.csproj|d:\\career180\\bookstoreapi\\bookstoreapi\\models\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D4D0468-C415-4A52-B51E-6C6EB9EEA422}|BookStoreAPI\\BookStoreAPI.csproj|solutionrelative:bookstoreapi\\models\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -66,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1D4D0468-C415-4A52-B51E-6C6EB9EEA422}|BookStoreAPI\\BookStoreAPI.csproj|d:\\career180\\bookstoreapi\\bookstoreapi\\dtos\\ordersdtos\\addorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D4D0468-C415-4A52-B51E-6C6EB9EEA422}|BookStoreAPI\\BookStoreAPI.csproj|solutionrelative:bookstoreapi\\dtos\\ordersdtos\\addorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D4D0468-C415-4A52-B51E-6C6EB9EEA422}|BookStoreAPI\\BookStoreAPI.csproj|d:\\career180\\bookstoreapi\\bookstoreapi\\dtos\\booksdtos\\addbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D4D0468-C415-4A52-B51E-6C6EB9EEA422}|BookStoreAPI\\BookStoreAPI.csproj|solutionrelative:bookstoreapi\\dtos\\booksdtos\\addbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D4D0468-C415-4A52-B51E-6C6EB9EEA422}|BookStoreAPI\\BookStoreAPI.csproj|d:\\career180\\bookstoreapi\\bookstoreapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -107,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "BookStoreAPI\\Models\\Customer.cs",
@@ -119,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\Models\\Book.cs",
               "RelativeDocumentMoniker": "BookStoreAPI\\Models\\Book.cs",
@@ -131,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\Models\\Order.cs",
               "RelativeDocumentMoniker": "BookStoreAPI\\Models\\Order.cs",
@@ -143,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "OrderItems.cs",
               "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\Models\\OrderItems.cs",
               "RelativeDocumentMoniker": "BookStoreAPI\\Models\\OrderItems.cs",
@@ -155,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "OrderItemDTO.cs",
               "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\DTOs\\OrdersDTOs\\OrderItemDTO.cs",
               "RelativeDocumentMoniker": "BookStoreAPI\\DTOs\\OrdersDTOs\\OrderItemDTO.cs",
@@ -163,12 +154,11 @@
               "RelativeToolTip": "BookStoreAPI\\DTOs\\OrdersDTOs\\OrderItemDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T20:07:32.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T20:07:32.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "AddOrderDTO.cs",
               "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\DTOs\\OrdersDTOs\\AddOrderDTO.cs",
               "RelativeDocumentMoniker": "BookStoreAPI\\DTOs\\OrdersDTOs\\AddOrderDTO.cs",
@@ -180,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 1,
               "Title": "AddBookDTO.cs",
               "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\DTOs\\BooksDTOs\\AddBookDTO.cs",
               "RelativeDocumentMoniker": "BookStoreAPI\\DTOs\\BooksDTOs\\AddBookDTO.cs",
@@ -188,23 +178,25 @@
               "RelativeToolTip": "BookStoreAPI\\DTOs\\BooksDTOs\\AddBookDTO.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T19:56:10.364Z"
+              "WhenOpened": "2024-12-21T19:56:10.364Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "BookStoreAPI\\Controllers\\OrderController.cs",
               "ToolTip": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\Controllers\\OrderController.cs",
               "RelativeToolTip": "BookStoreAPI\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T17:57:36.296Z"
+              "WhenOpened": "2024-12-20T17:57:36.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 17,
               "Title": "AdminController.cs",
               "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "BookStoreAPI\\Controllers\\AdminController.cs",
@@ -216,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "BookStoreAPI\\Controllers\\AccountController.cs",
@@ -228,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 18,
               "Title": "ChangePasswordController.cs",
               "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\Controllers\\ChangePasswordController.cs",
               "RelativeDocumentMoniker": "BookStoreAPI\\Controllers\\ChangePasswordController.cs",
@@ -240,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 19,
               "Title": "ChangePasswordDTO.cs",
               "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\DTOs\\CustomerDTOs\\ChangePasswordDTO.cs",
               "RelativeDocumentMoniker": "BookStoreAPI\\DTOs\\CustomerDTOs\\ChangePasswordDTO.cs",
@@ -252,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "BookStoreAPI\\Controllers\\CustomerController.cs",
@@ -264,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "MappingConfig.cs",
               "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\MappingConfigs\\MappingConfig.cs",
               "RelativeDocumentMoniker": "BookStoreAPI\\MappingConfigs\\MappingConfig.cs",
@@ -272,12 +264,11 @@
               "RelativeToolTip": "BookStoreAPI\\MappingConfigs\\MappingConfig.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAmwBgAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T19:40:02.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T19:40:02.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BookController.cs",
               "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "BookStoreAPI\\Controllers\\BookController.cs",
@@ -285,12 +276,11 @@
               "RelativeToolTip": "BookStoreAPI\\Controllers\\BookController.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAwwBwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T18:09:54.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T18:09:54.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\UnitOfWorks\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "BookStoreAPI\\UnitOfWorks\\UnitOfWork.cs",
@@ -298,12 +288,11 @@
               "RelativeToolTip": "BookStoreAPI\\UnitOfWorks\\UnitOfWork.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAApwB8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T17:23:23.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T17:23:23.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\Repositorys\\GenericRepository.cs",
               "RelativeDocumentMoniker": "BookStoreAPI\\Repositorys\\GenericRepository.cs",
@@ -311,12 +300,11 @@
               "RelativeToolTip": "BookStoreAPI\\Repositorys\\GenericRepository.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAIwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T17:17:54.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T17:17:54.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\Program.cs",
               "RelativeDocumentMoniker": "BookStoreAPI\\Program.cs",
@@ -329,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\appsettings.json",
               "RelativeDocumentMoniker": "BookStoreAPI\\appsettings.json",
@@ -337,12 +325,11 @@
               "RelativeToolTip": "BookStoreAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-17T16:39:36.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T16:39:36.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "BookStoreContext.cs",
               "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\Models\\BookStoreContext.cs",
               "RelativeDocumentMoniker": "BookStoreAPI\\Models\\BookStoreContext.cs",
@@ -350,60 +337,7 @@
               "RelativeToolTip": "BookStoreAPI\\Models\\BookStoreContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T16:36:38.493Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "38bf3b0c-7cd7-41cd-89cf-ae968386cce7",
-        "Display": 0,
-        "X": 956,
-        "Y": 236,
-        "Width": 927,
-        "Height": 655,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Compressed\\controller\\BooksController.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Compressed\\controller\\BooksController.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAD4AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T22:15:06.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Compressed\\Program.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Compressed\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T22:08:49.038Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\Compressed\\OrderController.cs",
-              "ToolTip": "C:\\Users\\ahmed\\Downloads\\Compressed\\OrderController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAowDIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T17:48:23.518Z"
+              "WhenOpened": "2024-12-17T16:36:38.493Z"
             }
           ]
         }

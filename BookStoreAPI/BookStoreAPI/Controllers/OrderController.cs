@@ -30,6 +30,8 @@ namespace BookStoreAPI.Controllers
 
             };
             Unit.orderRepository.Add(order);
+            Unit.orderRepository.Save();
+
             decimal tp = 0;
             foreach(var item in orderDTO.Books)
             {
@@ -44,14 +46,20 @@ namespace BookStoreAPI.Controllers
                 };
                 if (b.Stock > d.Quntity)
                 {
-                    order.OrderItems.Add(d);
+                    Unit.orderItemsRepository.Add(d);
                     b.Stock -= item.Quntity;
                     Unit.bookRepository.Update(b);
                 }
                 else
+                {
+                    Unit.orderRepository.Delete(order.Id);
                     return BadRequest("Invalid Quntity");
+                }
+                    
             }
             order.TotalPrice = tp;
+
+            Unit.orderRepository.Update(order);
             Unit.orderRepository.Save();
 
 
