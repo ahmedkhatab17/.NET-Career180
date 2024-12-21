@@ -50,17 +50,7 @@ namespace BookStoreAPI.Controllers
             return BadRequest(ModelState);
         }
 
-        [HttpGet]
-        [SwaggerOperation(Summary = "Check admin authentication", Description = "Checks if the current user is authenticated as an admin.")]
-        [SwaggerResponse(200, "User is authenticated as admin")]
-        [SwaggerResponse(401, "User is not authenticated")]
-        public IActionResult Get()
-        {
-            if(User.Identity.IsAuthenticated) 
-                return Ok();
-            else
-                return Unauthorized();
-        }
+        
 
 
 
