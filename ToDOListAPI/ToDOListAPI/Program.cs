@@ -17,7 +17,7 @@ namespace ToDOListAPI
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
             builder.Services.AddDbContext<TaskContext>(op => op.UseSqlServer(builder.Configuration.GetConnectionString("con")));
-            builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+            builder.Services.AddAutoMapper(typeof(MappingProfile));
             builder.Services.AddScoped<TaskRepository>();
 
 

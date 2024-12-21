@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "D:\\Career180\\ToDOListAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9A0F2F33-552C-4391-9DE1-C61C57D985B5}|ToDOListAPI\\ToDOListAPI.csproj|d:\\career180\\todolistapi\\todolistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0F2F33-552C-4391-9DE1-C61C57D985B5}|ToDOListAPI\\ToDOListAPI.csproj|solutionrelative:todolistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Career180\\BookStoreAPI\\BookStoreAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A0F2F33-552C-4391-9DE1-C61C57D985B5}|ToDOListAPI\\ToDOListAPI.csproj|d:\\career180\\todolistapi\\todolistapi\\controllers\\filtercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A0F2F33-552C-4391-9DE1-C61C57D985B5}|ToDOListAPI\\ToDOListAPI.csproj|solutionrelative:todolistapi\\controllers\\filtercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +36,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9A0F2F33-552C-4391-9DE1-C61C57D985B5}|ToDOListAPI\\ToDOListAPI.csproj|d:\\career180\\todolistapi\\todolistapi\\models\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A0F2F33-552C-4391-9DE1-C61C57D985B5}|ToDOListAPI\\ToDOListAPI.csproj|solutionrelative:todolistapi\\models\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A0F2F33-552C-4391-9DE1-C61C57D985B5}|ToDOListAPI\\ToDOListAPI.csproj|d:\\career180\\todolistapi\\todolistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A0F2F33-552C-4391-9DE1-C61C57D985B5}|ToDOListAPI\\ToDOListAPI.csproj|solutionrelative:todolistapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A0F2F33-552C-4391-9DE1-C61C57D985B5}|ToDOListAPI\\ToDOListAPI.csproj|d:\\career180\\todolistapi\\todolistapi\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,11 +65,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 12,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "PriorityController.cs",
               "DocumentMoniker": "D:\\Career180\\ToDOListAPI\\ToDOListAPI\\Controllers\\PriorityController.cs",
               "RelativeDocumentMoniker": "ToDOListAPI\\Controllers\\PriorityController.cs",
@@ -74,12 +81,11 @@
               "RelativeToolTip": "ToDOListAPI\\Controllers\\PriorityController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAuwB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T19:10:10.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T19:10:10.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UpdateTaskDTO.cs",
               "DocumentMoniker": "D:\\Career180\\ToDOListAPI\\ToDOListAPI\\DTOs\\UpdateTaskDTO.cs",
               "RelativeDocumentMoniker": "ToDOListAPI\\DTOs\\UpdateTaskDTO.cs",
@@ -87,12 +93,11 @@
               "RelativeToolTip": "ToDOListAPI\\DTOs\\UpdateTaskDTO.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T18:53:20.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T18:53:20.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CreateTaskDTO.cs",
               "DocumentMoniker": "D:\\Career180\\ToDOListAPI\\ToDOListAPI\\DTOs\\CreateTaskDTO.cs",
               "RelativeDocumentMoniker": "ToDOListAPI\\DTOs\\CreateTaskDTO.cs",
@@ -100,16 +105,11 @@
               "RelativeToolTip": "ToDOListAPI\\DTOs\\CreateTaskDTO.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T18:52:56.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+              "WhenOpened": "2024-12-21T18:52:56.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FilterController.cs",
               "DocumentMoniker": "D:\\Career180\\ToDOListAPI\\ToDOListAPI\\Controllers\\FilterController.cs",
               "RelativeDocumentMoniker": "ToDOListAPI\\Controllers\\FilterController.cs",
@@ -122,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "StatusController.cs",
               "DocumentMoniker": "D:\\Career180\\ToDOListAPI\\ToDOListAPI\\Controllers\\StatusController.cs",
               "RelativeDocumentMoniker": "ToDOListAPI\\Controllers\\StatusController.cs",
@@ -130,12 +130,11 @@
               "RelativeToolTip": "ToDOListAPI\\Controllers\\StatusController.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T18:03:16.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T18:03:16.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "D:\\Career180\\ToDOListAPI\\ToDOListAPI\\MappingProfile.cs",
               "RelativeDocumentMoniker": "ToDOListAPI\\MappingProfile.cs",
@@ -143,12 +142,11 @@
               "RelativeToolTip": "ToDOListAPI\\MappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T17:52:40.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T17:52:40.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "TaskDTO.cs",
               "DocumentMoniker": "D:\\Career180\\ToDOListAPI\\ToDOListAPI\\DTOs\\TaskDTO.cs",
               "RelativeDocumentMoniker": "ToDOListAPI\\DTOs\\TaskDTO.cs",
@@ -156,12 +154,11 @@
               "RelativeToolTip": "ToDOListAPI\\DTOs\\TaskDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T17:50:34.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T17:50:34.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "TaskController.cs",
               "DocumentMoniker": "D:\\Career180\\ToDOListAPI\\ToDOListAPI\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "ToDOListAPI\\Controllers\\TaskController.cs",
@@ -169,12 +166,11 @@
               "RelativeToolTip": "ToDOListAPI\\Controllers\\TaskController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T17:41:31.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T17:41:31.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "TaskRepository.cs",
               "DocumentMoniker": "D:\\Career180\\ToDOListAPI\\ToDOListAPI\\TaskRepository.cs",
               "RelativeDocumentMoniker": "ToDOListAPI\\TaskRepository.cs",
@@ -182,12 +178,11 @@
               "RelativeToolTip": "ToDOListAPI\\TaskRepository.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAA9wCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T16:57:35.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T16:57:35.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "TaskContext.cs",
               "DocumentMoniker": "D:\\Career180\\ToDOListAPI\\ToDOListAPI\\Models\\TaskContext.cs",
               "RelativeDocumentMoniker": "ToDOListAPI\\Models\\TaskContext.cs",
@@ -195,25 +190,24 @@
               "RelativeToolTip": "ToDOListAPI\\Models\\TaskContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T16:33:57.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T16:33:57.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Career180\\ToDOListAPI\\ToDOListAPI\\Program.cs",
               "RelativeDocumentMoniker": "ToDOListAPI\\Program.cs",
               "ToolTip": "D:\\Career180\\ToDOListAPI\\ToDOListAPI\\Program.cs",
               "RelativeToolTip": "ToDOListAPI\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBkAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T16:32:29.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Career180\\ToDOListAPI\\ToDOListAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ToDOListAPI\\appsettings.json",
@@ -221,12 +215,11 @@
               "RelativeToolTip": "ToDOListAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-21T16:31:20.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T16:31:20.099Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Task.cs",
               "DocumentMoniker": "D:\\Career180\\ToDOListAPI\\ToDOListAPI\\Models\\Task.cs",
               "RelativeDocumentMoniker": "ToDOListAPI\\Models\\Task.cs",
@@ -234,7 +227,40 @@
               "RelativeToolTip": "ToDOListAPI\\Models\\Task.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowBoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T16:28:03.256Z",
+              "WhenOpened": "2024-12-21T16:28:03.256Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "1f5ffeac-707a-492f-97d2-b91d3770f8f9",
+        "Display": 0,
+        "X": 1027,
+        "Y": 237,
+        "Width": 1062,
+        "Height": 685,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BookStoreAPI\\BookStoreAPI\\Program.cs",
+              "ToolTip": "D:\\Career180\\BookStoreAPI\\BookStoreAPI\\Program.cs",
+              "RelativeToolTip": "..\\BookStoreAPI\\BookStoreAPI\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T22:42:20.766Z",
               "EditorCaption": ""
             }
           ]
